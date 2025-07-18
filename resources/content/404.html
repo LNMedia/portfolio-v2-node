@@ -1,0 +1,55 @@
+<div class="error-container">
+    <h1>404</h1>
+    <h2 data-lang="errorTextOne"></h2>
+    <p data-lang="errorTextTwo"></p>
+    <p data-lang="errorTextThree"></p>
+    <a data-lang="errorButton" onclick="loadPage('home')"></a>
+</div>
+<style>
+    .error-container {
+        position: relative;
+        height: 400px;
+        top: 200px;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+    }
+    .error-container h1 {
+        font-size: 120px;
+        margin: 0;
+        color: var(--alert-color);
+    }
+    .error-container h2 {
+        font-size: 24px;
+        margin: 10px 0;
+        color: var(--info-color);
+    }
+    .error-container p {
+        font-size: 16px;
+        color: var(--primary-text-color);
+        max-width: 600px;
+        margin: 10px auto;
+    }
+    .error-container a {
+        position: absolute;
+        font-size: 16px;
+        color: var(--secondary-color);
+        text-decoration: none;
+        left: 50%;
+        transform: translate(-50%);
+        top: 350px;
+        padding: 12px 24px;
+        border: 2px solid #1E90FF;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    .error-container a:hover {
+        background-color: #1E90FF;
+        color: white;
+        border-color: transparent;
+        cursor: pointer;
+    }
+    .error-container .lang {
+        margin-top: 30px;
+    }
+</style>

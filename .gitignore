@@ -1,0 +1,4 @@
+*.log
+logs/
+desktop.ini
+node_modules/

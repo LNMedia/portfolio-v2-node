@@ -1,0 +1,444 @@
+<section class="profileAboutMe">
+    <div class="aboutMeText">
+        <h2 data-lang="profileAboutMeHeader" class="profileHeaderHeader"></h2>
+        <img src="images/selfPicLookRight.webp" alt="Andreas Reimann" style="float: left; margin-right: 20px; height: auto;" onclick="openModal('images/selfPicLookRight.webp')">
+        <p data-lang="aboutName" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutBirthday" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutIntro1" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutSkills1" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutSkills2" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutProjects" class="anonymous-pro-regular"></p>
+        <p data-lang="aboutOutro" class="anonymous-pro-regular"></p>
+    </div>
+</section>
+<div class="profileDevider"></div>
+<section class="profileCertificates">
+    <h2 data-lang="profileCertificatesHeader" class="profileHeaderHeader"></h2>
+    <div id="certificatesGallery" class="gallery"></div>
+</section>
+<div class="profileDevider"></div>
+<section class="profilePartnerships">
+    <h2 data-lang="profilePartnershipsHeader" class="profileHeaderHeader"></h2>
+    <div class="partnershipsContainer" id="partnersContainer"></div>
+</section>
+<div class="profileDevider"></div>
+<section class="profileGalery">
+    <h2 data-lang="profileGaleryHeader" class="profileHeaderHeader"></h2>
+    <div class="galleryContainer" id="galleryContainer"></div>
+</section>
+<div id="imageModal" class="modal">
+    <span class="close" onclick="closeModal()">×</span>
+    <img class="modal-content" id="modalImage">
+</div>
+<div class="profileDevider"></div>
+<section class="profileFAQ">
+    <h2 data-lang="profileFAQHeader" class="profileHeaderHeader"></h2>
+    <div class="faqContainer">
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion1" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer1"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion2" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer2"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion3" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer3"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion4" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer4"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion5" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer5"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion6" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer6"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion7" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer7"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion8" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer8"></p>
+        </div>
+        <div class="faqItem" onclick="toggleFAQItem(this)">
+            <h3 data-lang="profileFAQQuestion9" class="chakra-petch-light"></h3>
+            <i class='fa-solid fa-arrow-down'></i>
+            <p data-lang="profileFAQAnswer9"></p>
+        </div>
+    </div>
+</section>
+<style>
+    .profileAboutMe,
+    .profileCertificates, 
+    .profilePartnerships,
+    .profileGalery,
+    .profileFAQ {
+        position: relative;
+        width: 100%;
+        left: 50%;
+        transform: translate(-50%);
+        height: auto;
+        padding: 10px;
+    }
+    .profileHeaderHeader {
+        font-size: 2.2em;
+        color: var(--tertiary-color);
+        margin: 0;
+        padding: 0;
+        font-family: "Merriweather", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+        color: var(--tertiary-color);
+        text-shadow: 1px 2px 3px var(--shadow-color), 2px 2px 5px var(--shadow-color), 1px 1px 3px var(--card-header-text);
+        margin-bottom: 20px;
+    }
+    .aboutMeText img {
+        max-width: 280px;
+        width: 100%;
+        border-radius: 20px;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+        object-fit: cover;
+    }
+    .aboutMeText img:hover {
+        transform: scale(1.03);
+        box-shadow:
+            inset 0 1px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -2px 6px rgba(0, 0, 0, 0.1),
+            0 2px 12px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+    }
+    .aboutMeText {
+        position: relative;
+        width: 95%;
+        left: 50%;
+        transform: translate(-50%);
+        font-size: 1.05rem;
+        line-height: 1.4;
+        color: var(--primary-text-color);
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+        backdrop-filter: blur(4px);
+        text-align: justify;
+        font-family: "Anonymous Pro", monospace;
+    }
+    .aboutMeText p {
+        margin-bottom: 15px;
+    }
+    .aboutMeText strong {
+        color: var(--accent-color);
+        font-weight: 600;
+    }
+    .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 20px;
+        justify-items: center;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        align-content: center;
+    }
+    .cert {
+        position: relative;
+        max-width: 100%;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .cert img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        cursor: pointer;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+    }   
+    .cert img:hover {
+        transform: scale(1.05);
+        transition: transform 0.3s ease;
+        box-shadow:
+            inset 0 1px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -5px 6px rgba(0, 0, 0, 0.1),
+            0 4px 15px rgba(0, 0, 0, 0.15);
+    }
+    .partnershipsContainer {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .partner {
+        background-color: white;
+        border-radius: 15px;
+        box-shadow: 2px 2px 5px var(--shadow-color), 2px 2px 5px var(--shadow-color), 2px 2px 5px var(--shadow-color) inset;
+        max-width: 450px;
+        width: 90%;
+        padding: 20px;
+        text-align: center;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        overflow: hidden;
+        position: relative;
+        border: 2px solid transparent;
+        background-image: linear-gradient(to bottom, var(--background-color), var(--secondary-color));
+    }
+    .partner:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 12px 20px var(--shadow-color);
+        border-color: #3a8dff;
+    }
+    .partner img {
+        width: 90%;
+        object-fit: contain;
+        border-radius: 10px;
+    }
+    .partner a {
+        display: inline-block;
+        font-size: 18px;
+        font-weight: bold;
+        color: var(--link-color);
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+    .partner-description {
+        font-size: 14px;
+        text-align: justify;
+        color: var(--card-header-text);
+        font-family: 'Anonymous Pro', monospace;
+        line-height: 1.6;
+        padding: 0 10px;
+    }
+    .partner a:hover {
+        color: #3a8dff;
+    }
+	.galleryContainer {
+		position: relative;
+		box-sizing: border-box;
+		width: 100%;
+		padding: 10px;
+		text-align: center;
+	}
+    .galleryContainer img {
+		position: relative;
+		display: inline-block;
+		float: left;
+		width: 100%;
+		max-width: 350px;
+		height: auto;
+		text-align: center;
+		object-fit: cover;
+		border-radius: 15px;
+		border: solid 2px var(--border-color);
+		transition: transform 0.3s ease-in-out;
+		cursor: pointer;
+		vertical-align: top;
+		margin-right: 5px;
+		margin-bottom: 5px;
+    }
+	.galleryContainer::after {
+		content: "";
+		display: block;
+		clear: both;
+	}
+    .galleryContainer img:hover {
+        transform: scale(1.05);
+    }
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.7);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .modal-content {
+        margin: auto;
+        display: block;
+        max-width: 80%;
+        max-height: 80%;
+    }
+    .close {
+        position: absolute;
+        top: 115px;
+        right: 35px;
+        color: #f1f1f1;
+        font-size: 40px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    .close:hover,
+    .close:focus {
+        color: #bbb;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .faqContainer {
+        position: relative;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .faqItem {
+        position: relative;
+        height: auto;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+        padding: 10px;
+        max-height: 65px;
+        overflow: hidden;
+        background-color: var(--card-bg);
+        border-radius: 12px;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+    }
+    .faqItem.expanded {
+        max-height: 1000px;
+    }
+    .faqItem.expanded .fa-arrow-down {
+        transform: rotate(180deg);
+        transition: transform 0.3s ease;
+    }
+    .faqItem h3 {
+        position: relative;
+        margin: 0;
+        padding: 0;
+        margin-top: 5px;
+        margin-left: 25px;
+        text-align: left;
+        font-size: 1.6em;
+    }
+    .faqItem p {
+        position: relative;
+        text-align: justify;
+        width: 95%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        margin-top: 45px;
+        left: 50%;
+        transform: translate(-50%);
+        font-size: 1.4em;
+        color: var(--primary-text-color);
+        font-family: 'Anonymous Pro', monospace;
+    }
+    .faqItem .fa-arrow-down {
+        position: absolute;
+        font-size: 20px;
+        top: 25px;
+        right: 25px;
+        animation: arrowJumper 2s linear infinite;
+        cursor: pointer;
+    }
+    .faqItem .fa-arrow-down:hover {
+        scale: 1.05;
+    }
+    .faqItem:hover .fa-arrow-down {
+        animation: none !important;
+    }
+    .profileDevider {
+        position: relative;
+        width: 100%;
+        height: 1px;
+        background: var(--border-color);
+        margin: 25px 0;
+    }
+    @media screen and (max-width: 1400px) {
+        .close {
+            top: 160px;
+            right: 15px;
+        }
+    }
+    @media screen and (max-width: 1099px) {
+        .close {
+            top: 15px;
+            right: 15px;
+        }
+    }
+    @media (max-width: 786px) {
+        .profileAboutMe,
+        .profileCertificates, 
+        .profilePartnerships,
+        .profileGalery,
+        .profileFAQ {
+            width: 110%;
+        }
+        .profileHeaderHeader {
+            font-size: 1.4em;
+            text-align: center;
+        }
+        .faqItem h3 {
+            margin-left: 5px;
+            font-size: 1.1em;
+            width: 85%;
+        }
+        .faqItem p {
+            font-size: 1em;
+        }
+        .aboutMeContainer {
+            flex-direction: row;
+            align-items: flex-start;
+        }
+        .aboutMeImage {
+            flex: 0 0 auto;
+        }
+        .aboutMeText {
+            flex: 1;
+            justify-content: center;
+            align-items: center;
+            justify-items: center;
+        }
+        .aboutMeText img {
+            position: relative;
+            left: 50%;
+            transform: translate(-50%);
+            max-width: 400px;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .aboutMeText img:hover {
+            transform: translate(-50%) scale(1.03);
+        }
+    }
+</style>

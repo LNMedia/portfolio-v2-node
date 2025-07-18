@@ -1,0 +1,180 @@
+<div class="linkFilterMenu slide-top" onclick="toggleLinkFilterMenu()">
+    <h2 class="chakra-petch-light">Filter</h2>
+    <button class="resetButton chakra-petch-light" id="resetButton">Reset</button>
+    <i class='fa-solid fa-arrow-down'></i>
+    <div class="tagList" id="tagList"></div>
+</div>
+<div class="linkContainer fade-in" id="linkContainer"></div>
+
+<style>
+    .linkFilterMenu {
+        position: relative;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+        height: auto;
+        max-height: 75px;
+        overflow: hidden;
+        background-color: var(--card-bg);
+        margin-bottom: 25px;
+        border-radius: 12px;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+    .linkFilterMenu h2 {
+        margin: 0;
+        padding: 0;
+        margin-top: 25px;
+        margin-left: 25px;
+        text-align: left;
+        color: var(--primary-text-color);
+    }
+    .linkFilterMenu .fa-arrow-down {
+        position: absolute;
+        font-size: 20px;
+        top: 35px;
+        right: 25px;
+        animation: arrowJumper 2s linear infinite;
+        cursor: pointer;
+        color: var(--primary-text-color);
+    }
+    .linkFilterMenu .fa-arrow-down:hover {
+        transform: scale(1.1);
+    }
+    .linkFilterMenu:hover .fa-arrow-down {
+        animation: none !important;
+    }
+    .linkFilterMenu .resetButton {
+        position: absolute;
+        top: 100px;
+        width: 89%;
+        left: 50%;
+        transform: translateX(-50%);
+        color: var(--primary-text-color);
+        padding: 12px;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        cursor: pointer;
+    }
+    .linkFilterMenu .resetButton:hover {
+        background: var(--link-hover-color);
+        transform: translateX(-50%) scale(1.02);
+    }
+    .linkFilterMenu .tagList {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 90%;
+        height: auto;
+    }
+    .linkFilterMenu .tagList button {
+        flex-grow: 1;
+        background: var(--link-color);
+        color: white;
+        margin: 5px;
+        padding: 10px 14px;
+        border: none;
+        border-radius: 8px;
+        font-size: 15px;
+        cursor: pointer;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+    .linkFilterMenu .tagList button:hover {
+        background: var(--link-hover-color);
+        transform: translateY(-2px);
+    }
+    .tagList button.active {
+        background: var(--success-color);
+        color: var(--primary-text-color);
+        box-shadow: 0 3px 8px rgba(0, 255, 120, 0.3);
+    }
+    .linkContainer {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        width: calc(100% + 20px);
+        gap: 0px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .linkCard {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-grow: 1;
+        flex-basis: calc(100% / 6 - 20px);
+        min-width: 15%;
+        max-width: 100%;
+        height: 175px;
+        padding: 16px;
+        margin: 12px;
+        background-color: var(--card-bg);
+        border-radius: 16px;
+        border: 1px solid var(--border-color);
+        text-align: center;
+        text-decoration: none;
+        color: var(--primary-text-color);
+        cursor: pointer;
+        box-shadow:
+            inset 0 2px 4px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+    .linkCard:hover {
+        transform: translateY(-10px) scale(1.02);
+        background: var(--link-hover-color);
+        box-shadow:
+            inset 0 1px 5px rgba(255, 255, 255, 0.05),
+            inset 0 -3px 6px rgba(0, 0, 0, 0.1),
+            0 3px 12px rgba(0, 0, 0, 0.15);
+    }
+    .linkCard .spanContainer {
+        position: absolute;
+        min-width: 100px;
+        bottom: 0px;
+        display: flex;
+        flex-direction: column;
+        white-space: inherit;
+        padding: 10px;
+    }
+    .linkCard span {
+        position: relative;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        width: 100%;
+        text-align: center;
+        margin-top: 5px;
+        color: var(--primary-text-color);
+    }
+    .linkCard img {
+        position: absolute;
+        top: 10px;
+        width: 75px;
+        height: 75px;
+        margin-bottom: 10px;
+    }
+    .linkCard:hover img {
+        width: 100px;
+        height: 100px;
+    }
+    @media screen and (max-width: 1000px) {
+        .linkContainer {
+            width: calc(100% + 85px);
+        }
+        .linkCard {
+            min-width: 25%;
+        }
+    }
+</style>

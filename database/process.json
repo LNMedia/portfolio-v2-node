@@ -1,0 +1,64 @@
+{
+    "processes": [
+        {
+          "processName": "processWebdev",
+          "icon": "images/skills/skillsProcesses/baseWebDev.webp",
+          "percentage": "75",
+          "tags": ["processProgramming"]
+        },
+        {
+            "processName": "processBackend",
+            "icon": "images/skills/skillsProcesses/baseBackend.webp",
+            "percentage": "20",
+            "tags": ["processProgramming"]
+        },
+        {
+            "processName": "processCoding",
+            "icon": "images/skills/skillsProcesses/codingScripting.webp",
+            "percentage": "75",
+            "tags": ["processProgramming"]
+        },
+        {
+            "processName": "processWebServer",
+            "icon": "images/skills/skillsProcesses/webServer.webp",
+            "percentage": "45",
+            "tags": ["processServer"]
+        },
+        {
+            "processName": "processAudioServer",
+            "icon": "images/skills/skillsProcesses/voicemeeter.webp",
+            "percentage": "75",
+            "tags": ["processServer"]
+        },
+        {
+            "processName": "processPlanning",
+            "icon": "images/skills/skillsProcesses/planningTools.webp",
+            "percentage": "85",
+            "tags": ["processPlan"]
+        },
+        {
+            "processName": "processEditing",
+            "icon": "images/skills/skillsProcesses/videoCreation.webp",
+            "percentage": "65",
+            "tags": ["processVideo"]
+        },
+        {
+            "processName": "processStreaming",
+            "icon": "images/skills/skillsProcesses/liveStreaming.webp",
+            "percentage": "65",
+            "tags": ["processVideo"]
+        },
+        {
+            "processName": "processMusic",
+            "icon": "images/skills/skillsProcesses/musicMaking.webp",
+            "percentage": "50",
+            "tags": ["processAudio"]
+        },
+        {
+            "processName": "processUseKI",
+            "icon": "images/skills/skillsProcesses/chatgpt.webp",
+            "percentage": "60",
+            "tags": ["processKI"]
+        }
+    ]
+}

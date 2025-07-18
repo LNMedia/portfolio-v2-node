@@ -1,0 +1,168 @@
+{
+    "links": [
+        {
+          "url": "https://wa.me/4915206482495",
+          "icon": "images/links/whatsapp.webp",
+          "username": "LupiNex Media",
+          "plattform": "WhatsApp",
+          "thema": "linksBusiness",
+          "tags": ["Chatting", "Business", "LupiNex Media", "WhatsApp"]
+        },
+        {
+          "url": "https://t.me/lupinexmedia",
+          "icon": "images/links/telegram.webp",
+          "username": "LupiNex Media",
+          "plattform": "Telegram",
+          "thema": "linksBusiness",
+          "tags": ["Chatting", "Business", "LupiNex Media", "Telegram"]
+        },
+        {
+            "url": "https://youtube.com/@lupinexmedia",
+            "icon": "images/links/youtube.webp",
+            "username": "LupiNex Media",
+            "plattform": "YouTube",
+            "thema": "linksBusiness",
+            "tags": ["Videos", "Business", "LupiNex Media", "YouTube"]
+        },
+        {
+            "url": "https://tiktok.com/@lupinexmedia",
+            "icon": "images/links/tiktok.webp",
+            "username": "LupiNex Media",
+            "plattform": "Tiktok",
+            "thema": "linksBusiness",
+            "tags": ["Videos", "Business", "LupiNex Media", "Tiktok"]
+        },
+
+        {
+            "url": "https://youtube.com/@apixoffiziell",
+            "icon": "images/links/youtube.webp",
+            "username": "APiXoffiziell",
+            "plattform": "YouTube",
+            "thema": "linksGaming",
+            "tags": ["Videos", "Gaming", "APiXoffiziell", "YouTube"]
+        },
+        {
+            "url": "https://tiktok.com/@apixoffiziell",
+            "icon": "images/links/tiktok.webp",
+            "username": "APiXoffiziell",
+            "plattform": "Tiktok",
+            "thema": "linksGaming",
+            "tags": ["Videos", "Streaming", "Gaming", "APiXoffiziell", "Tiktok"]
+        },
+        {
+            "url": "https://twitch.tv/apixoffiziell",
+            "icon": "images/links/twitch.webp",
+            "username": "APiXoffiziell",
+            "plattform": "Twitch",
+            "thema": "linksGamingjc",
+            "tags": ["Streaming", "Gaming", "Just Chatting", "APiXoffiziell", "Twitch"]
+        },
+        {
+            "url": "https://steamcommunity.com/id/apixoffiziell",
+            "icon": "images/links/steam.webp",
+            "username": "APiXoffiziell",
+            "plattform": "Steam",
+            "thema": "linksGaming",
+            "tags": ["Gaming", "APiXoffiziell", "Steam"]
+        },
+        {
+            "url": "https://instagram.com/apixoffiziell",
+            "icon": "images/links/instagram.webp",
+            "username": "APiXoffiziell",
+            "plattform": "Instagram",
+            "thema": "linksAllround",
+            "tags": ["Allround", "APiXoffiziell", "Instagram"]
+        },
+
+        {
+            "url": "https://youtube.com/@andifenrirofficial",
+            "icon": "images/links/youtube.webp",
+            "username": "Andi Fenrir",
+            "plattform": "YouTube",
+            "thema": "linksMusic",
+            "tags": ["Videos", "Music", "Andi Fenrir", "YouTube"]
+        },
+        {
+            "url": "https://tiktok.com/@andifenrirofficial",
+            "icon": "images/links/tiktok.webp",
+            "username": "Andi Fenrir",
+            "plattform": "Tiktok",
+            "thema": "linksMusic",
+            "tags": ["Videos", "Music", "Andi Fenrir", "Tiktok"]
+        },
+
+        {
+            "url": "https://open.spotify.com/playlist/5C2IK5kGKxpYcDqTeDfNqy?si=42ebd505ebc341ab",
+            "icon": "images/links/spotify.webp",
+            "username": "Wolfsblut Beats",
+            "plattform": "Spotify",
+            "thema": "linksMusic",
+            "tags": ["Music", "Spotify"]
+        },
+        {
+            "url": "https://open.spotify.com/playlist/44GpwtFUB8KwG9xVNqEpFB?si=768d03a140844753",
+            "icon": "images/links/spotify.webp",
+            "username": "Stimme im Nebel",
+            "plattform": "Spotify",
+            "thema": "linksMusic",
+            "tags": ["Music", "Spotify"]
+        },
+        {
+            "url": "https://open.spotify.com/playlist/4RzjJxoD3yGd7d0V8ektKS?si=63ae2914b32e4ce7",
+            "icon": "images/links/spotify.webp",
+            "username": "Cozy Beats",
+            "plattform": "Spotify",
+            "thema": "linksMusic",
+            "tags": ["Music", "Spotify"]
+        },
+        {
+            "url": "https://discord.gg/vjg7kKyH2m",
+            "icon": "images/links/discord.webp",
+            "username": "TeamGiftwolfDE",
+            "plattform": "Discord",
+            "thema": "linksGamingjc",
+            "tags": ["Gaming", "Just Chatting", "Podcast", "Team Giftwolf", "Pixel & Pils", "Discord"]
+        },
+
+        {
+            "url": "https://pixelundpils.de",
+            "icon": "images/links/pixelundpils.webp",
+            "username": "Pixel & Pils",
+            "plattform": "Website",
+            "thema": "linksPodcast",
+            "tags": ["Podcast", "Website", "Pixel & Pils"]
+        },
+        {
+            "url": "https://open.spotify.com/show/3JFKr20mGDGGpYxmdJkHAi",
+            "icon": "images/links/spotify.webp",
+            "username": "Pixel & Pils",
+            "plattform": "Spotify",
+            "thema": "linksPodcast",
+            "tags": ["Podcast", "Spotify", "Just Chatting", "Pixel & Pils"]
+        },
+        {
+            "url": "https://tiktok.com/@pixelundpils",
+            "icon": "images/links/tiktok.webp",
+            "username": "Pixel & Pils",
+            "plattform": "Tiktok",
+            "thema": "linksPodcast",
+            "tags": ["Videos", "Just Chatting", "Pixel & Pils", "Tiktok"]
+        },
+        {
+            "url": "https://youtube.com/@pixelundpils",
+            "icon": "images/links/youtube.webp",
+            "username": "Pixel & Pils",
+            "plattform": "YouTube",
+            "thema": "linksPodcast",
+            "tags": ["Videos", "Business", "Pixel & Pils", "YouTube"]
+        },
+        {
+            "url": "https://twitch.tv/pixelundpils",
+            "icon": "images/links/twitch.webp",
+            "username": "Pixel & Pils",
+            "plattform": "Twitch",
+            "thema": "linksPodcast",
+            "tags": ["Streaming", "Just Chatting", "Pixel & Pils", "Twitch"]
+        }
+    ]
+}

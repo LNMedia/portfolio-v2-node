@@ -1,0 +1,766 @@
+{
+    "navHome": {
+        "de": "Startseite",
+        "en": "Homepage"
+    },
+    "navProfile": {
+        "de": "Mein Profil",
+        "en": "My Profile"
+    },
+    "navProjects": {
+        "de": "Projekte",
+        "en": "Projects"
+    },
+    "navSkills": {
+        "de": "Fähigkeiten",
+        "en": "Skills"
+    },
+    "navContact": {
+        "de": "Kontakt",
+        "en": "Contact"
+    },
+    "mobileMenu": {
+        "de": "Menü",
+        "en": "Menu"
+    },
+    "mobileContact": {
+        "de": "Kontakt",
+        "en": "Contact"
+    },
+    "mobileProjects": {
+        "de": "Projekte",
+        "en": "Projects"
+    },
+    "mobileSettings": {
+        "de": "Optionen",
+        "en": "Settings"
+    },
+    "legalImpress": {
+        "de": "Impressum",
+        "en": "Impress"
+    },
+    "legalData": {
+        "de": "Datenschutz",
+        "en": "Privacy Policy"
+    },
+    "legalCookies": {
+        "de": "Cookies",
+        "en": "Cookies"
+    },
+    "legalSources": {
+        "de": "Quellen",
+        "en": "Sources"
+    },
+    "errorTextOne": {
+        "de": "Hoppla! Die Seite, die du suchst, existiert nicht.",
+        "en": "Oops! The page you're looking for doesn't exist."
+    },
+    "errorTextTwo": {
+        "de": "Es scheint, als hättest du dich verirrt. Kein Problem, das passiert den Besten!",
+        "en": "It seems like you’ve taken a wrong turn. Don’t worry, it happens to the best of us!"
+    },
+    "errorTextThree": {
+        "de": "Klicke unten, um zur Startseite zurückzukehren oder gehe zurück zu der Seite, von der du kamst.",
+        "en": "Click below to return to the homepage or go back to where you came from."
+    },
+    "errorButton": {
+        "de": "Zurück zur Startseite",
+        "en": "Back to Home"
+    },
+    "linksBusiness": {
+        "de": "Geschäftl.",
+        "en": "Business"
+    },
+    "linksGaming": {
+        "de": "Gaming",
+        "en": "Gaming"
+    },
+    "linksGamingjc": {
+        "de": "Gaming / Just Chatting",
+        "en": "Gaming / Just Chatting"
+    },
+    "linksAllround": {
+        "de": "Allround",
+        "en": "Allround"
+    },
+    "linksMusic": {
+        "de": "Musik",
+        "en": "Music"
+    },
+    "linksPodcast": {
+        "de": "Podcast",
+        "en": "Podcast"
+    },
+    "skillsIntroHeader": {
+        "de": "Meine Fähigkeiten",
+        "en": "My Skills"
+    },
+    "skillsIntroTextOne": {
+        "de": "In einer digitalen Welt, die ständig im Wandel ist, spielen fundierte Kenntnisse und vielseitige Fähigkeiten eine zentrale Rolle. Auf dieser Seite gebe ich einen Einblick in meine Erfahrungen – von technischen Fertigkeiten über kreative Ansätze bis hin zu strategischen Überlegungen.",
+        "en": "In a rapidly changing digital world, in-depth knowledge and versatile skills play a key role. On this page, I provide an insight into my experiences – from technical skills to creative approaches and strategic thinking."
+    },
+    "skillsIntroTextTwo": {
+        "de": "Ob Webentwicklung, Softwaredesign, Content Creation oder strategisches Management – meine Fähigkeiten verbinden technisches Know-how mit innovativen Ideen. Durch jahrelange praktische Erfahrung habe ich gelernt, Lösungen für vielfältige Herausforderungen zu entwickeln, die sowohl funktional als auch effizient sind.",
+        "en": "Whether it’s web development, software design, content creation, or strategic management – my skills blend technical expertise with innovative ideas. Through years of hands-on experience, I have learned to develop solutions for a wide range of challenges that are both functional and efficient."
+    },
+    "skillsIntroTextThree": {
+        "de": "Jede Fähigkeit, die hier vorgestellt wird, basiert nicht nur auf theoretischem Wissen, sondern wurde in realen Projekten angewendet und kontinuierlich verbessert. Ich freue mich darauf, gemeinsam neue Möglichkeiten zu erkunden und innovative Lösungen zu finden.",
+        "en": "Each skill presented here is not just theoretical knowledge but has been applied in real-world projects and continuously improved. I look forward to exploring new opportunities together and finding innovative solutions."
+    },
+    "skillsProcessHeader": {
+        "de": "Aktuelle Fähigkeiten",
+        "en": "Current skills"
+    },
+    "allProcessesButton": {
+        "de": "Alle",
+        "en": "All"
+    },
+    "processProgramming": {
+        "de": "Programmieren",
+        "en": "Programming"
+    },
+    "processPlan": {
+        "de": "Planen",
+        "en": "Planning"
+    },
+    "processVideo": {
+        "de": "Video",
+        "en": "Video"
+    },
+    "processServer": {
+        "de": "Server",
+        "en": "Server"
+    },
+    "processAudio": {
+        "de": "Audio",
+        "en": "Audio"
+    },
+    "processKI": {
+        "de": "Künstliche Intelligenz",
+        "en": "Artificial intelligence"
+    },
+    "processWebdev": {
+        "de": "Webentwicklung (Frontend)",
+        "en": "Webdevelopment (Frontend)"
+    },
+    "processBackend": {
+        "de": "Webentwicklung (Backend)",
+        "en": "Webdevelopment (Backend)"
+    },
+    "processCoding": {
+        "de": "Codes/Scripts schreiben",
+        "en": "Writing codes/scripts"
+    },
+    "processPlanning": {
+        "de": "Nutzung von Planungstools",
+        "en": "Usage of planning tools"
+    },
+    "processEditing": {
+        "de": "Videos erstellen",
+        "en": "Video creation"
+    },
+    "processStreaming": {
+        "de": "LIVE-Streaming",
+        "en": "LIVE-Streaming"
+    },
+    "processWebServer": {
+        "de": "Webserver erstellen",
+        "en": "Creating a webserver"
+    },
+    "processAudioServer": {
+        "de": "Audionetzwerke erstellen",
+        "en": "Creation of audio networks"
+    },
+    "processMusic": {
+        "de": "Musikproduktion",
+        "en": "Music creation"
+    },
+    "processUseKI": {
+        "de": "Künstliche Intelligenzen",
+        "en": "Artificial intelligence"
+    },
+    "skillsHighlightsHeader": {
+        "de": "Meine Projekt Highlights",
+        "en": "My project highlights"
+    },
+    "moreInfo": {
+        "de": "Mehr Informationen",
+        "en": "More informations"
+    },
+    "projectsHeader": {
+        "de": "Meine Projekte",
+        "en": "My Projects"
+    },
+    "startDate": {
+        "de": "Startdatum: ",
+        "en": "Start date: "
+    },
+    "endDate": {
+        "de": "Fertigstellung: ",
+        "en": "Finished: "
+    },
+    "upDate": {
+        "de": "Letztes Update: ",
+        "en": "Latest update: "
+    },
+    "technologies": {
+        "de": "Technologien: ",
+        "en": "Technologies: "
+    },
+    "projectDescription": {
+        "de": "Projektbeschreibung: ",
+        "en": "Projectdescription: "
+    },
+    "projectName": {
+        "de": "Projektname: ",
+        "en": "Projectname: "
+    },
+    "plannedDate": {
+        "de": "Geplante Fertigstellung: ",
+        "en": "Planned Finishing: "
+    },
+    "projectOpen": {
+        "de": "Offen",
+        "en": "Open"
+    },
+    "projectWIP": {
+        "de": "In Arbeit",
+        "en": "In Progress"
+    },
+    "projectFrozen": {
+        "de": "Pausiert",
+        "en": "Paused"
+    },
+    "projectDone": {
+        "de": "Abgeschlossen",
+        "en": "Done"
+    },
+    "projectOneDescription": {
+		"de": "Die Website von A. Reimann dient als professionelle Online-Präsenz und bietet einen umfassenden Einblick in die Person hinter dem Namen. Interessierte erhalten hier einen detaillierten Überblick über berufliche Stationen, Fähigkeiten und Projekte. Die Seite wurde mit modernen Webtechnologien realisiert und fungiert als zentrale Plattform für alle, die mehr über Werdegang, Kompetenzen und Tätigkeiten erfahren möchten.",
+		"en": "The A. Reimann website is a professional online presence that offers a comprehensive insight into the person behind the name. Visitors are provided with an in-depth overview of career milestones, skills, and personal projects. Built using modern web technologies, the site serves as a central hub for anyone interested in learning more about the background, expertise, and activities of A. Reimann."
+    },
+    "projectTwoDescription": {
+        "de": "Stream Warden ist eine innovative Softwarelösung für Content Creator, die ihren Stream auf professionelle Weise optimieren möchten. Ausgestattet mit einem intelligenten Chatbot, integriertem Musikplayer und einem individuell konfigurierbaren Streamdeck bietet die Software zahlreiche Werkzeuge zur Steigerung der Zuschauerbindung. Stream Warden unterstützt gängige Plattformen wie Twitch, YouTube und TikTok und ermöglicht ein nahtloses, interaktives Streaming-Erlebnis auf höchstem Niveau.",
+        "en": "Stream Warden is an innovative software solution tailored for content creators looking to elevate their streaming performance. Featuring a smart chatbot, integrated music player, and a fully customizable stream deck, the software offers a broad set of tools to enhance audience engagement. Compatible with major platforms such as Twitch, YouTube, and TikTok, Stream Warden ensures a seamless and professional-grade streaming experience."
+    },
+    "projectThreeDescription": {
+        "de": "LupiCore (Server) ist eine umfassende Server-Management-Software, die eine zentrale Steuerung verschiedenster Servertypen ermöglicht – darunter Apache-, WebSocket-, Datei- und Game-Server. Die Lösung läuft direkt auf dem Server-PC und bietet darüber hinaus ein flexibles Modul-System, mit dem Erweiterungen und Tools bereitgestellt werden können. LupiCore bildet das Rückgrat einer skalierbaren Infrastruktur und sorgt für eine stabile Verbindung zwischen Server und Clients.",
+        "en": "LupiCore (Server) is a comprehensive server management platform designed to centralize control of a wide range of server types – including Apache, WebSocket, file, and game servers. Operating directly on your server PC, LupiCore also supports a flexible module system, allowing the distribution of extensions and tools. Acting as the backbone of a scalable infrastructure, it ensures a stable and seamless connection between the server and its clients."
+    },
+    "projectFourDescription": {
+        "de": "LupiCore (Client) ist die benutzerfreundliche Schnittstelle zum LupiCore-Server und ermöglicht den Zugriff auf vielfältige Dienste und Anwendungen. Nutzer können über die Software Projekte steuern, WebSocket-Server verwalten, To-Do-Tools, Kalenderfunktionen und weitere Anwendungen nutzen. Zusätzlich erlaubt die Client-Version die Steuerung des eigenen Computers, wodurch individuelle Workflows und Automatisierungen realisiert werden können. Die Software kann weltweit eingesetzt werden und verbindet Nutzer direkt mit den bereitgestellten Lösungen des Servers.",
+        "en": "LupiCore (Client) is the user-friendly counterpart to the LupiCore Server, enabling access to a wide range of services and applications. Users can manage projects, control WebSocket servers, use to-do tools, calendar features, and more. The client also allows control over the local computer, opening up possibilities for customized workflows and automation. Accessible from anywhere with an internet connection, the software provides a direct link to all solutions hosted on the server."
+    },
+    "projectFiveDescription": {
+        "de": "Glow Puzzle Quest ist ein anspruchsvolles 2D-Puzzle-Spiel, das die Spieler in eine Welt voller taktischer Herausforderungen entführt. Auf einem variablen Spielfeld müssen alle Lichter deaktiviert werden, wobei jede Beleuchtungseinheit mit den benachbarten verknüpft ist. Das Ausschalten eines Elements beeinflusst andere, was strategisches Denken erfordert. Mit zufällig angeordneten Lichtern und steigender Schwierigkeit bleibt jede Runde eine neue Herausforderung. Minimalistische Grafik und fesselndes Gameplay machen Glow Puzzle Quest zu einem Muss für Puzzle-Fans.",
+        "en": "Glow Puzzle Quest is a challenging 2D puzzle game that immerses players in a world of tactical challenges. On a variable grid, the goal is to turn off all the lights, with each element interconnected to its neighbors. Deactivating one affects others, requiring strategic thinking. With randomly arranged lights and increasing difficulty, each round presents a new challenge. Minimalist graphics and captivating gameplay make Glow Puzzle Quest a must-have for puzzle enthusiasts."
+    },
+    "projectSixDescription": {
+        "de": "Fabian ist ein geschätzter Freund unseres Teams. Zu seinem Geburtstag wollten wir – das gesamte Social Media Team Giftwolf – ihm eine ganz besondere Freude machen. Mit viel Herzblut und Kreativität entstand eine Website voller liebevoller Details: interaktive Animationen, Konfetti-Effekte und individuell gestaltete Grafiken sorgen für ein einzigartiges Erlebnis. Jeder Aspekt wurde sorgfältig ausgewählt, um Fabians Persönlichkeit widerzuspiegeln und diesen besonderen Anlass zu feiern. Die Seite vereint visuelle Highlights mit akustischen Elementen – ein digitales Geschenk, das ihm hoffentlich lange in Erinnerung bleibt.",
+        "en": "Fabian is a valued friend of our team. For his birthday, we – the entire Social Media Team Giftwolf – wanted to give him something truly special. With a lot of passion and creativity, we created a website filled with thoughtful details: interactive animations, confetti effects, and custom-made graphics provide a one-of-a-kind experience. Every element was carefully chosen to reflect Fabian’s personality and to celebrate this special occasion. The site blends visual highlights with acoustic features – a digital gift meant to bring lasting joy and unforgettable memories."
+    },
+    "sortSelect": {
+        "de": "Name",
+        "en": "Name"
+    },
+    "sortbyStatus": {
+        "de": "Status",
+        "en": "Status"
+    },
+    "sortbyStart": {
+        "de": "Startdatum",
+        "en": "Start date"
+    },
+    "sortbyLatest": {
+        "de": "Letztes Update",
+        "en": "Latest update"
+    },
+    "sortbyPlanned": {
+        "de": "Geplant zu",
+        "en": "Planned to"
+    },
+    "sortbyEnd": {
+        "de": "Fertigstellung",
+        "en": "Finished"
+    },
+    "allProjectsButton": {
+        "de": "Alle Projekte",
+        "en": "All projects"
+    },
+    "sortAfter": {
+        "de": "Sortieren nach",
+        "en": "Sort by"
+    },
+    "profileAboutMeHeader": {
+        "de": "Über Mich",
+        "en": "About Me"
+    },
+    "aboutName": {
+        "de": "<strong>Name:</strong> Andreas Reimann",
+        "en": "<strong>Name:</strong> Andreas Reimann"
+    },
+    "aboutBirthday": {
+        "de": "<strong>Geboren am:</strong> 06.10.1998",
+        "en": "<strong>Date of Birth:</strong> October 6, 1998"
+    },
+    "aboutIntro1": {
+        "de": "<strong>Ich bin ein vielseitig interessierter Mensch mit einer Leidenschaft für Technologie, digitale Medien und Kommunikation.</strong> Ich liebe es, kreative Ideen in praktische Lösungen umzusetzen – sei es in der Webentwicklung, Musikproduktion, im Streaming oder beim Erstellen von digitalen Inhalten. Meist gehe ich als Einzelkämpfer durch meine Projekte, wobei ich den kreativen Prozess von Anfang bis Ende selbst in die Hand nehme. Gleichzeitig bin ich aber auch offen für strukturierte Teamarbeit und schätze die Möglichkeit, in einem Team zu arbeiten, um gemeinsam neue Ideen umzusetzen und Synergien zu nutzen. In meiner Arbeit als Webentwickler nutze ich NodeJS, um einfache, aber effiziente Backends zu erstellen, und MySQL, um Datenbanken zu entwickeln, die die spezifischen Anforderungen meiner Projekte erfüllen. Derzeit arbeite ich mit anderen an einem Podcast, dessen erste Folgen sich gerade in der Schnittphase befinden. Die Veröffentlichung steht kurz bevor und wird interessante Themen und Gespräche für die Zuhörer bieten. <br><br>Ich habe zudem eine Ausbildung zum Elektroniker für Energie- und Gebäudetechnik abgeschlossen, die ich vom 01.08.2016 bis 28.02.2020 in Rostock gemacht habe. Diese Ausbildung hat mir nicht nur praktische technische Kenntnisse vermittelt, sondern auch mein Interesse an der Lösung von Problemen und der Entwicklung effizienter Systeme geprägt.",
+        "en": "<strong>I am a multifaceted individual with a passion for technology, digital media, and communication.</strong> I enjoy transforming creative ideas into practical solutions, whether in web development, music production, streaming, or creating digital content. I usually work solo through my projects, taking control of the creative process from start to finish. However, I’m also open to working in a structured team environment, appreciating the opportunity to collaborate and leverage team synergies to bring new ideas to life. In my role as a web developer, I use NodeJS to build simple yet efficient backends, and MySQL to create databases that meet the specific needs of my projects. Currently, I am working with others on a podcast, with the first episodes currently in editing. The release is approaching, and it will feature interesting topics and conversations for the listeners. <br><br>I also completed an apprenticeship as an electronics technician for energy and building technology from 01.08.2016 to 28.02.2020 in Rostock. This apprenticeship not only gave me practical technical knowledge but also fostered my interest in problem-solving and developing efficient systems."
+    },
+    "aboutSkills1": {
+        "de": "<strong>Technisches Know-how und praktische Erfahrung:</strong><br>Ich habe fundierte Kenntnisse in der Webentwicklung, insbesondere in den Bereichen HTML, CSS, JavaScript, PHP und SQL. Dabei konzentriere ich mich darauf, Webseiten und Apps zu erstellen, die sowohl benutzerfreundlich als auch leistungsfähig sind. Als Administrator meiner eigenen Serverinfrastruktur kümmere ich mich selbstständig um Domains, Server, SSL-Zertifikate und Datenbanken und stelle sicher, dass alles reibungslos läuft. Mit NodeJS entwickle ich einfache, aber effektive Backends, und mit MySQL baue ich Datenbanken, die den Anforderungen meiner Projekte entsprechen. Außerdem arbeite ich regelmäßig mit Tools wie OBS und VoiceMeeter und nutze Video-Editoren wie DaVinci Resolve, um Inhalte für Plattformen wie TikTok und YouTube zu erstellen und zu bearbeiten.",
+        "en": "<strong>Technical expertise and hands-on experience:</strong><br>I have solid knowledge in web development, particularly in HTML, CSS, JavaScript, PHP, and SQL. My focus is on creating websites and apps that are both user-friendly and performant. As the administrator of my own server infrastructure, I manage domains, servers, SSL certificates, and databases independently, ensuring everything runs smoothly. Using NodeJS, I build simple yet effective backends, and with MySQL, I create databases that meet the specific needs of my projects. Additionally, I regularly work with tools like OBS and VoiceMeeter and use video editors such as DaVinci Resolve to create and edit content for platforms like TikTok and YouTube."
+    },
+    "aboutSkills2": {
+        "de": "<strong>Weitere Kompetenzen:</strong><br>Ich habe Erfahrung in der Bildbearbeitung und der Verwaltung von DNS sowie in der Organisation von Dateien und Ordnersystemen für größere Projekte. Zudem nutze ich KI-Tools wie ChatGPT und BlackBoxAI, um kreative Prozesse zu unterstützen und technische Herausforderungen zu meistern. Ich bin sicher im Umgang mit Windows PowerShell, der Kommandozeile und mit Office-Anwendungen wie Excel und PowerPoint. Auch die Planung und Umsetzung von PC-Setups gehört zu meinen Fähigkeiten. Außerdem leite ich ein kleines Social-Media-Team, in dem ich nicht nur die Koordination übernehme, sondern auch Inhalte erstelle und die Zusammenarbeit fördere.",
+        "en": "<strong>Additional skills:</strong><br>I have experience in image editing and DNS management, as well as organizing file and folder systems for larger projects. I also use AI tools like ChatGPT and BlackBoxAI to support creative processes and solve technical challenges. I am proficient in Windows PowerShell, command-line operations, and office applications like Excel and PowerPoint. Planning and setting up PC configurations is also part of my skill set. Additionally, I lead a small social media team where I not only handle coordination but also create content and promote collaboration."
+    },
+    "aboutProjects": {
+        "de": "<strong>Meine aktuellen Projekte:</strong> Ich plane, meinen Podcast weiter auszubauen und so eine tiefere Verbindung zu meiner Community aufzubauen. Der Podcast gibt mir die Möglichkeit, verschiedene Themen anzusprechen und mit meinen Zuhörern auf eine persönliche und authentische Weise in Kontakt zu treten. Die ersten Folgen befinden sich momentan in der Postproduktion und werden bald veröffentlicht. Zudem arbeite ich an Projekten im Bereich Kurzfilm und Dokumentation, bei denen ich emotionale Geschichten erzähle und neue Ideen in der digitalen Kommunikation umsetze. In Zukunft möchte ich auch interaktive Formate entwickeln, bei denen die Community aktiv in den kreativen Prozess eingebunden wird. <br><br>Um mehr über meine aktuellen Projekte zu erfahren, besuche bitte meine Projekteseite.",
+        "en": "<strong>My current projects:</strong> I plan to further expand my podcast, building a deeper connection with my community. The podcast allows me to explore various topics and engage with my listeners in a personal and authentic way. The first episodes are currently in post-production and will be released soon. Additionally, I am working on short film and documentary projects where I tell emotional stories and implement new ideas in digital communication. In the future, I want to develop interactive formats that involve the community actively in the creative process. <br><br>To learn more about my current projects, please visit my project page."
+    },
+    "aboutOutro": {
+        "de": "Ich freue mich immer über neue Herausforderungen, bei denen ich meine Fähigkeiten weiterentwickeln und neue Ideen einbringen kann. Ich schätze klare Kommunikation, kreative Zusammenarbeit und Projekte, die sowohl technisch als auch menschlich überzeugend sind. Mit meiner Erfahrung in der Webentwicklung, dem Streaming und Social Media Management freue ich mich auf spannende Projekte und die Möglichkeit, mit anderen zusammenzuarbeiten.",
+        "en": "I’m always excited about new challenges where I can continue to develop my skills and bring fresh ideas. I value clear communication, creative collaboration, and projects that are both technically and humanly compelling. With my experience in web development, streaming, and social media management, I look forward to exciting projects and the opportunity to collaborate with others."
+    },
+    "profileCertificatesHeader": {
+        "de": "Zertifikate",
+        "en": "Certificates"
+    },
+    "profilePartnershipsHeader": {
+        "de": "Partnerschaften",
+        "en": "Partnerships"
+    },
+    "profileGaleryHeader": {
+        "de": "Galerie",
+        "en": "Gallery"
+    },
+    "profileFAQHeader": {
+        "de": "Häufig gestellte Fragen",
+        "en": "Frequently asked questions"
+    },
+    "profileFAQQuestion1": {
+    "de": "Erstellst du alle deine Inhalte selbst?",
+    "en": "Do you create all your content by yourself?"
+    },
+    "profileFAQAnswer1": {
+        "de": "Ja, der Großteil meiner Inhalte wird in Eigenregie produziert – vom ersten Konzept bis zur finalen Umsetzung. Dabei greife ich teilweise auf Bilder von Stock-Anbietern zurück, aber auch eigene Kreationen gehören zu meinen Inhalten. Ebenso produziere und bearbeite ich alle Videos selbst, um die bestmögliche Qualität und Individualität zu gewährleisten.",
+        "en": "Yes, most of my content is produced independently – from the initial concept to the final product. While I occasionally source images from stock providers, I also create many of them myself. Likewise, I produce and edit all videos on my own to ensure the highest quality and individuality."
+    },
+    "profileFAQQuestion2": {
+        "de": "Programmierst du alle deine Projekte eigenständig?",
+        "en": "Do you code all your projects by yourself?"
+    },
+    "profileFAQAnswer2": {
+        "de": "Ja, die Entwicklung meiner Projekte erfolgt ausschließlich in Eigenregie, wobei ich ständig dazu lerne und mich weiterbilde. Derzeit konzentriere ich mich auf Webtechnologien wie HTML, CSS und JavaScript sowie auf NodeJS, um komplexe Projekte effizient umzusetzen und dabei immer auf dem neuesten Stand der Technik zu bleiben.",
+        "en": "Yes, I develop all my projects independently, while constantly learning and improving my skills. Currently, I focus on web technologies such as HTML, CSS, and JavaScript, as well as NodeJS, to efficiently implement complex projects while staying up to date with the latest technologies."
+    },
+    "profileFAQQuestion3": {
+        "de": "Bietest du Unterstützung für andere Creator an?",
+        "en": "Do you also support other creators?"
+    },
+    "profileFAQAnswer3": {
+        "de": "Das hängt stark davon ab, wie sich meine freie Zeit organisieren lässt. Ich bin jedoch immer bereit, anderen Creatorn zu helfen, besonders in den Bereichen Technik, Design und strategische Planung, wenn es meine Zeit zulässt.",
+        "en": "It largely depends on how I can manage my free time. However, I’m always willing to help other creators, especially in the areas of technology, design, and strategic planning, as long as my time allows it."
+    },
+    "profileFAQQuestion4": {
+        "de": "Arbeitest du mit einem Team zusammen?",
+        "en": "Do you work with a team?"
+    },
+    "profileFAQAnswer4": {
+        "de": "Abgesehen von meinem Social Media Team 'Team Giftwolf', das hauptsächlich für das Streaming und Video-Content zuständig ist – wir unterstützen uns gegenseitig sowohl bei Live-Streams als auch bei der Content-Erstellung – arbeite ich in der Regel eigenständig an meinen Projekten.",
+        "en": "Apart from my social media team 'Team Giftwolf', which mainly focuses on streaming and video content – we support each other in live streams and content creation – I usually work independently on my projects."
+    },
+    "profileFAQQuestion5": {
+        "de": "Kann man dich für Projekte buchen?",
+        "en": "Can you be booked for projects?"
+    },
+    "profileFAQAnswer5": {
+        "de": "Zurzeit arbeite ich an mehreren laufenden Projekten, aber ich bin immer offen für neue Ideen und Anfragen. Du kannst dich gerne über eines meiner Social Media-Konten auf der Kontaktseite bei mir melden, um mögliche Projekte zu besprechen.",
+        "en": "Currently, I am working on several ongoing projects, but I’m always open to new ideas and inquiries. Feel free to reach out via one of my social media accounts on the contact page to discuss potential projects."
+    },
+    "profileFAQQuestion6": {
+        "de": "Wie organisierst du deine Zeit zwischen den verschiedenen Projekten?",
+        "en": "How do you organize your time between different projects?"
+    },
+    "profileFAQAnswer6": {
+        "de": "Die Zeitplanung ist eine der größten Herausforderungen. Ich setze Prioritäten basierend auf Deadlines und dem Umfang der Projekte. Meistens benutze ich ein Projektmanagement-Tool, um alles im Blick zu behalten und meine Zeit effizient zu nutzen.",
+        "en": "Time management is one of the biggest challenges. I prioritize based on deadlines and the scope of the projects. I usually use a project management tool to keep everything in sight and make the most efficient use of my time."
+    },
+    "profileFAQQuestion7": {
+        "de": "Verwendest du spezielle Tools oder Software für deine Projekte?",
+        "en": "Do you use specific tools or software for your projects?"
+    },
+    "profileFAQAnswer7": {
+        "de": "Ja, für die Verwaltung und Umsetzung meiner Projekte nutze ich verschiedene Tools. Dazu gehören Software wie Visual Studio Code für das Programmieren, Adobe Photoshop für Designaufgaben sowie Notion für das Projektmanagement.",
+        "en": "Yes, I use various tools for managing and implementing my projects. These include software such as Visual Studio Code for coding, Adobe Photoshop for design tasks, and Notion for project management."
+    },
+    "profileFAQQuestion8": {
+        "de": "Welche Social Media Plattformen nutzt du am meisten?",
+        "en": "Which social media platforms do you use the most?"
+    },
+    "profileFAQAnswer8": {
+        "de": "Ich bin hauptsächlich auf TikTok und Twitch aktiv (YouTube nebenbei).",
+        "en": "I am mainly active on TikTok and Twitch (YouTube on the side)."
+    },
+    "profileFAQQuestion9": {
+        "de": "Wie gehst du mit negativer Kritik um?",
+        "en": "How do you deal with negative feedback?"
+    },
+    "profileFAQAnswer9": {
+        "de": "Negative Kritik ist unvermeidlich, aber ich versuche, sie konstruktiv zu nutzen, um mich weiterzuentwickeln. Ich nehme mir Zeit, die Kommentare zu reflektieren und nutze sie, um meine Inhalte zu verbessern und meinen Ansatz zu hinterfragen.",
+        "en": "Negative feedback is inevitable, but I try to use it constructively to improve. I take the time to reflect on the comments and use them to enhance my content and reassess my approach."
+    },
+    "partnerOne": {
+        "de": "Instant Gaming ist ein führender Anbieter von digitalen Spielkeys zu Preisen, die bis zu 90% reduziert sind. Mit einer breiten Auswahl an Spielen für PC, Xbox und PlayStation bietet Instant Gaming eine schnelle und zuverlässige Lösung für Gamer weltweit. Als Partner des Vertrauens, wenn es um Spiele geht, setzt Instant Gaming auf Transparenz, Sicherheit und exzellenten Kundenservice. Hier findest du alles, was das Gamer-Herz begehrt – zu unschlagbaren Preisen. Klicke auf das Logo, um zum Partner zu gelangen.",
+        "en": "Instant Gaming is a leading provider of digital game keys at prices discounted by up to 90%. With a wide selection of games for PC, Xbox, and PlayStation, Instant Gaming offers a fast and reliable solution for gamers worldwide. As my trusted partner when it comes to games, Instant Gaming emphasizes transparency, security, and exceptional customer service. Here, you'll find everything a gamer could wish for – at unbeatable prices. Click on the logo to visit the partner."
+    },
+    "impressHeader": {
+        "de": "Impressum",
+        "en": "Impress"
+    },
+    "impressParagraph5": {
+        "de": "Angaben gemäß § 5 DDG",
+        "en": "Information according to § 5 DDG"
+    },
+    "impressName": {
+        "de": "Andreas Reimann",
+        "en": "Andreas Reimann"
+    },
+    "impressAddress": {
+        "de": "*****************",
+        "en": "*****************"
+    },
+    "impressRepresentativeTitle": {
+        "de": "Vertreten durch:",
+        "en": "Represented by:"
+    },
+    "impressRepresentative": {
+        "de": "Andreas Reimann",
+        "en": "Andreas Reimann"
+    },
+    "impressContactTitle": {
+        "de": "Kontakt:",
+        "en": "Contact:"
+    },
+    "impressPhone": {
+        "de": "Telefon: *****************",
+        "en": "Phone: *****************"
+    },
+    "impressEmailLink": {
+        "de": "E-Mail: business@areimann.de",
+        "en": "Email: business@areimann.de"
+    },
+    "impressLiabilityTitle": {
+        "de": "Haftungsausschluss:",
+        "en": "Disclaimer:"
+    },
+    "impressLiabilityContentTitle": {
+        "de": "Haftung für Inhalte",
+        "en": "Liability for Content"
+    },
+    "impressLiabilityContent": {
+        "de": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.",
+        "en": "The contents of our pages were created with the greatest care. However, we cannot guarantee the accuracy, completeness, or timeliness of the content. As a service provider, we are responsible for our own content on these pages under general laws according to § 7 para. 1 DDG. According to §§ 8 to 10 DDG, we are not obligated to monitor transmitted or stored third-party information or investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected. However, liability in this regard is only possible from the time of knowledge of a specific infringement. Upon becoming aware of such violations, we will remove this content immediately."
+    },
+    "impressLinkLiabilityTitle": {
+        "de": "Haftung für Links",
+        "en": "Liability for Links"
+    },
+    "impressLinkLiabilityContent": {
+        "de": "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.",
+        "en": "Our offer contains links to external third-party websites over whose contents we have no influence. Therefore, we cannot assume any liability for these external contents. The respective provider or operator of the linked pages is always responsible for their content. The linked pages were checked for possible legal violations at the time of linking. Illegal content was not recognizable at the time of linking. A permanent content control of the linked pages is not reasonable without concrete indications of a legal violation. Upon becoming aware of legal violations, we will remove such links immediately."
+    },
+    "impressCopyrightTitle": {
+        "de": "Urheberrecht",
+        "en": "Copyright"
+    },
+    "impressCopyrightContent": {
+        "de": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.",
+        "en": "The content and works created by the site operators on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator. Downloads and copies of this site are only permitted for private, non-commercial use. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. In particular, third-party content is marked as such. If you nevertheless become aware of a copyright infringement, please inform us accordingly. Upon becoming aware of legal violations, we will remove such content immediately."
+    },
+    "impressPrivacyTitle": {
+        "de": "Datenschutz",
+        "en": "Privacy"
+    },
+    "impressPrivacyContent": {
+        "de": "Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.",
+        "en": "The use of our website is generally possible without providing personal data. Insofar as personal data (such as name, address, or email addresses) is collected on our pages, this is always done on a voluntary basis, if possible. This data will not be passed on to third parties without your express consent. We point out that data transmission over the Internet (e.g. communication by e-mail) can have security gaps. Complete protection of data against access by third parties is not possible. The use of contact data published within the scope of the legal notice obligation by third parties for sending unsolicited advertising and information materials is hereby expressly rejected. The operators of the pages expressly reserve the right to take legal action in the event of unsolicited sending of advertising information, such as spam emails."
+    },
+    "impressGeneratorInfo": {
+        "de": "Erstellt mit dem <a href='https://impressum-generator.de' rel='dofollow'>Impressum-Generator</a> von WebsiteWissen.com, dem Ratgeber für <a href='https://websitewissen.com/website-erstellen' rel='dofollow'>Website-Erstellung</a>, <a href='https://websitewissen.com/homepage-baukasten-vergleich' rel='dofollow'>Homepage-Baukästen</a> und <a href='https://websitewissen.com/shopsysteme-vergleich' rel='dofollow'>Shopsysteme</a>. Rechtstext von der <a href='https://www.kanzlei-hasselbach.de/' rel='dofollow'>Kanzlei Hasselbach</a>.",
+        "en": "Created with the <a href='https://impressum-generator.de' rel='dofollow'>Legal Notice Generator</a> by WebsiteWissen.com, the guide for <a href='https://websitewissen.com/website-erstellen' rel='dofollow'>website creation</a>, <a href='https://websitewissen.com/homepage-baukasten-vergleich' rel='dofollow'>homepage builders</a> and <a href='https://websitewissen.com/shopsysteme-vergleich' rel='dofollow'>shop systems</a>. Legal text by <a href='https://www.kanzlei-hasselbach.de/' rel='dofollow'>Kanzlei Hasselbach</a>."
+    },
+    "cookieInfo": {
+        "de": "Diese Website verwendet Cookies zur Speicherung deiner Sprache, des Designs und der aktuellen Seite. <a onclick='loadPage(`dataprotection`)'>Mehr Informationen</a>",
+        "en": "This website uses cookies to remember your language, design and current page. <a onclick='loadPage(`dataprotection`)'>More Informations</a>"
+    },
+    "dataProtectionHeader": {
+        "de": "Datenschutzerklärung",
+        "en": "Privacy Policy"
+    },
+    "dataProtectionParagraph1": {
+        "de": "Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.",
+        "en": "Personal data (hereinafter mostly referred to as 'data') is processed by us only to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents and the services offered there."
+    },
+    "dataProtectionParagraph2": {
+        "de": "Gemäß <a href='https://dejure.org/gesetze/DSGVO/4.html' title='Art. 4 DSGVO: Begriffsbestimmungen' rel='nofollow noopener' target='_blank'>Art. 4 Ziffer 1</a>. der Verordnung (EU) 2016/679, also der Datenschutz-Grundverordnung (nachfolgend nur „DSGVO“ genannt), gilt als „Verarbeitung“ jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführter Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.",
+        "en": "According to <a href='https://dejure.org/gesetze/DSGVO/4.html' title='Art. 4 DSGVO: Definitions' rel='nofollow noopener' target='_blank'>Art. 4 Ziffer 1</a>. of Regulation (EU) 2016/679, also known as the General Data Protection Regulation (hereinafter referred to as 'GDPR'), 'processing' means any operation or set of operations which is performed on personal data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction."
+    },
+    "dataProtectionParagraph3": {
+        "de": "Mit der nachfolgenden Datenschutzerklärung informieren wir Sie insbesondere über Art, Umfang, Zweck, Dauer und Rechtsgrundlage der Verarbeitung personenbezogener Daten, soweit wir entweder allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung entscheiden. Zudem informieren wir Sie nachfolgend über die von uns zu Optimierungszwecken sowie zur Steigerung der Nutzungsqualität eingesetzten Fremdkomponenten, soweit hierdurch Dritte Daten in wiederum eigener Verantwortung verarbeiten.",
+        "en": "With the following privacy policy, we inform you in particular about the type, scope, purpose, duration, and legal basis of the processing of personal data, as far as we either alone or together with others decide on the purposes and means of processing. We also inform you about the third-party components we use for optimization purposes and to enhance user experience, as far as they process data in their own responsibility."
+    },
+    "dataProtectionParagraph4": {
+        "de": "Unsere Datenschutzerklärung ist wie folgt gegliedert:",
+        "en": "Our privacy policy is structured as follows:"
+    },
+    "dataProtectionParagraph5": {
+        "de": "I. Informationen über uns als Verantwortliche<br>II. Rechte der Nutzer und Betroffenen<br>III. Informationen zur Datenverarbeitung",
+        "en": "I. Information about us as controllers<br>II. Rights of users and data subjects<br>III. Information on data processing"
+    },
+    "dataProtectionHeader2": {
+        "de": "I. Informationen über uns als Verantwortliche",
+        "en": "I. Information about us as controllers"
+    },
+    "dataProtectionParagraph6": {
+        "de": "Verantwortlicher Anbieter dieses Internetauftritts im datenschutzrechtlichen Sinne ist:",
+        "en": "Responsible provider of this website in the sense of data protection law is:"
+    },
+    "dataProtectionHeader3": {
+        "de": "II. Rechte der Nutzer und Betroffenen",
+        "en": "II. Rights of users and data subjects"
+    },
+    "dataProtectionParagraph8": {
+        "de": "Mit Blick auf die nachfolgend noch näher beschriebene Datenverarbeitung haben die Nutzer und Betroffenen das Recht",
+        "en": "With regard to the data processing described in more detail below, users and data subjects have the right"
+    },
+    "dataProtectionList1": {
+        "de": "<li>auf Bestätigung, ob sie betreffende Daten verarbeitet werden, auf Auskunft über die verarbeiteten Daten, auf weitere Informationen über die Datenverarbeitung sowie auf Kopien der Daten (vgl. auch <a href='https://dejure.org/gesetze/DSGVO/15.html' title='Art. 15 DSGVO: Auskunftsrecht der betroffenen Person' rel='nofollow noopener' target='_blank'>Art. 15 DSGVO</a>);</li><li>auf Berichtigung oder Vervollständigung unrichtiger bzw. unvollständiger Daten (vgl. auch <a href='https://dejure.org/gesetze/DSGVO/16.html' title='Art. 16 DSGVO: Recht auf Berichtigung' rel='nofollow noopener' target='_blank'>Art. 16 DSGVO</a>);</li><li>auf unverzügliche Löschung der sie betreffenden Daten (vgl. auch <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Recht auf Löschung (&quot;Recht auf Vergessenwerden&quot;)' rel='nofollow noopener' target='_blank'>Art. 17 DSGVO</a>), oder, alternativ, soweit eine weitere Verarbeitung gemäß <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Recht auf Löschung (&quot;Recht auf Vergessenwerden&quot;)' rel='nofollow noopener' target='_blank'>Art. 17 Abs. 3 DSGVO</a> erforderlich ist, auf Einschränkung der Verarbeitung nach Maßgabe von <a href='https://dejure.org/gesetze/DSGVO/18.html' title='Art. 18 DSGVO: Recht auf Einschränkung der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 18 DSGVO</a>;</li><li>auf Erhalt der sie betreffenden und von ihnen bereitgestellten Daten und auf Übermittlung dieser Daten an andere Anbieter/Verantwortliche (vgl. auch <a href='https://dejure.org/gesetze/DSGVO/20.html' title='Art. 20 DSGVO: Recht auf Datenübertragbarkeit' rel='nofollow noopener' target='_blank'>Art. 20 DSGVO</a>);</li><li>auf Beschwerde gegenüber der Aufsichtsbehörde, sofern sie der Ansicht sind, dass die sie betreffenden Daten durch den Anbieter unter Verstoß gegen datenschutzrechtliche Bestimmungen verarbeitet werden (vgl. auch <a href='https://dejure.org/gesetze/DSGVO/77.html' title='Art. 77 DSGVO: Recht auf Beschwerde bei einer Aufsichtsbehörde' rel='nofollow noopener' target='_blank'>Art. 77 DSGVO</a>).</li>",
+        "en": "<li>to confirmation as to whether data concerning them is being processed, to information about the processed data, to further information on data processing, and to copies of the data (see also <a href='https://dejure.org/gesetze/DSGVO/15.html' title='Art. 15 DSGVO: Right of access by the data subject' rel='nofollow noopener' target='_blank'>Art. 15 GDPR</a>);</li><li>to rectification or completion of inaccurate or incomplete data (see also <a href='https://dejure.org/gesetze/DSGVO/16.html' title='Art. 16 DSGVO: Right to rectification' rel='nofollow noopener' target='_blank'>Art. 16 GDPR</a>);</li><li>to immediate deletion of their data (see also <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Right to erasure (&quot;right to be forgotten&quot;)' rel='nofollow noopener' target='_blank'>Art. 17 GDPR</a>), or, alternatively, if further processing is necessary according to <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Right to erasure (&quot;right to be forgotten&quot;)' rel='nofollow noopener' target='_blank'>Art. 17 para. 3 GDPR</a>, to restriction of processing in accordance with <a href='https://dejure.org/gesetze/DSGVO/18.html' title='Art. 18 DSGVO: Right to restriction of processing' rel='nofollow noopener' target='_blank'>Art. 18 GDPR</a>;</li><li>to receive the data concerning them and provided by them and to transmit this data to other providers/controllers (see also <a href='https://dejure.org/gesetze/DSGVO/20.html' title='Art. 20 DSGVO: Right to data portability' rel='nofollow noopener' target='_blank'>Art. 20 GDPR</a>);</li><li>to lodge a complaint with a supervisory authority if they believe that the data concerning them is being processed by the provider in violation of data protection regulations (see also <a href='https://dejure.org/gesetze/DSGVO/77.html' title='Art. 77 DSGVO: Right to lodge a complaint with a supervisory authority' rel='nofollow noopener' target='_blank'>Art. 77 GDPR</a>).</li>"
+    },
+    "dataProtectionParagraph9": {
+        "de": "Darüber hinaus ist der Anbieter dazu verpflichtet, alle Empfänger, denen gegenüber Daten durch den Anbieter offengelegt worden sind, über jedwede Berichtigung oder Löschung von Daten oder die Einschränkung der Verarbeitung, die aufgrund der <a href='https://dejure.org/gesetze/DSGVO/16.html' title='Art. 16 DSGVO: Recht auf Berichtigung' rel='nofollow noopener' target='_blank'>Artikel 16</a>, <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Recht auf Löschung (&quot;Recht auf Vergessenwerden&quot;)' rel='nofollow noopener' target='_blank'>17 Abs. 1</a>, <a href='https://dejure.org/gesetze/DSGVO/18.html' title='Art. 18 DSGVO: Recht auf Einschränkung der Verarbeitung' rel='nofollow noopener' target='_blank'>18 DSGVO</a> erfolgt, zu unterrichten. Diese Verpflichtung besteht jedoch nicht, soweit diese Mitteilung unmöglich oder mit einem unverhältnismäßigen Aufwand verbunden ist. Unbeschadet dessen hat der Nutzer ein Recht auf Auskunft über diese Empfänger.",
+        "en": "In addition, the provider is obliged to inform all recipients to whom data has been disclosed by the provider about any rectification or deletion of data or the restriction of processing that has taken place under <a href='https://dejure.org/gesetze/DSGVO/16.html' title='Art. 16 DSGVO: Right to rectification' rel='nofollow noopener' target='_blank'>Articles 16</a>, <a href='https://dejure.org/gesetze/DSGVO/17.html' title='Art. 17 DSGVO: Right to erasure (&quot;right to be forgotten&quot;)' rel='nofollow noopener' target='_blank'>17 para. 1</a>, <a href='https://dejure.org/gesetze/DSGVO/18.html' title='Art. 18 DSGVO: Right to restriction of processing' rel='nofollow noopener' target='_blank'>18 GDPR</a>. However, this obligation does not exist if this notification is impossible or involves a disproportionate effort. Notwithstanding this, the user has a right to information about these recipients."
+    },
+    "dataProtectionParagraph10": {
+        "de": "Ebenfalls haben die Nutzer und Betroffenen nach <a href='https://dejure.org/gesetze/DSGVO/21.html' title='Art. 21 DSGVO: Widerspruchsrecht' rel='nofollow noopener' target='_blank'>Art. 21 DSGVO</a> das Recht auf Widerspruch gegen die künftige Verarbeitung der sie betreffenden Daten, sofern die Daten durch den Anbieter nach Maßgabe von <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f) DSGVO</a> verarbeitet werden. Insbesondere ist ein Widerspruch gegen die Datenverarbeitung zum Zwecke der Direktwerbung statthaft.",
+        "en": "Users and data subjects also have the right to object to the future processing of their data under <a href='https://dejure.org/gesetze/DSGVO/21.html' title='Art. 21 DSGVO: Right to object' rel='nofollow noopener' target='_blank'>Art. 21 GDPR</a>, provided that the data is processed by the provider in accordance with <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f) GDPR</a>. In particular, an objection to data processing for the purpose of direct advertising is permissible."
+    },
+    "dataProtectionHeader4": {
+        "de": "III. Informationen zur Datenverarbeitung",
+        "en": "III. Information on data processing"
+    },
+    "dataProtectionParagraph11": {
+        "de": "Ihre bei Nutzung unseres Internetauftritts verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, der Löschung der Daten keine gesetzlichen Aufbewahrungspflichten entgegenstehen und nachfolgend keine anderslautenden Angaben zu einzelnen Verarbeitungsverfahren gemacht werden.",
+        "en": "Your data processed when using our website will be deleted or blocked as soon as the purpose of storage ceases to apply, provided that there are no legal retention obligations against deletion and no other statements are made regarding individual processing procedures below."
+    },
+    "dataProtectionParagraph12": {
+        "de": "<h4>Cookies</h4><h5>a) Sitzungs-Cookies/Session-Cookies</h5><p>Wir verwenden mit unserem Internetauftritt sog. Cookies. Cookies sind kleine Textdateien oder andere Speichertechnologien, die durch den von Ihnen eingesetzten Internet-Browser auf Ihrem Endgerät ablegt und gespeichert werden. Durch diese Cookies werden im individuellen Umfang bestimmte Informationen von Ihnen, wie beispielsweise Ihre Browser- oder Standortdaten oder Ihre IP-Adresse, verarbeitet.</p><p>Durch diese Verarbeitung wird unser Internetauftritt benutzerfreundlicher, effektiver und sicherer, da die Verarbeitung bspw. die Wiedergabe unseres Internetauftritts in unterschiedlichen Sprachen oder das Angebot einer Warenkorbfunktion ermöglicht.</p><p>Rechtsgrundlage dieser Verarbeitung ist Art. 6 Abs. 1 lit b.) DSGVO, sofern diese Cookies Daten zur Vertragsanbahnung oder Vertragsabwicklung verarbeitet werden.</p><p>Falls die Verarbeitung nicht der Vertragsanbahnung oder Vertragsabwicklung dient, liegt unser berechtigtes Interesse in der Verbesserung der Funktionalität unseres Internetauftritts. Rechtsgrundlage ist in dann <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f) DSGVO</a>.</p><p>Mit Schließen Ihres Internet-Browsers werden diese Session-Cookies gelöscht.</p>",
+        "en": "<h4>Cookies</h4><h5>a) Session Cookies</h5><p>We use so-called cookies with our website. Cookies are small text files or other storage technologies that are placed and stored on your end device by the internet browser you use. Through these cookies, certain information about you, such as your browser or location data or your IP address, is processed.</p><p>This processing makes our website more user-friendly, effective, and secure, as it enables the display of our website in different languages or offers a shopping cart function.</p><p>The legal basis for this processing is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit b.) GDPR</a>, provided that these cookies process data for contract initiation or contract execution.</p><p>If the processing does not serve contract initiation or execution, our legitimate interest lies in improving the functionality of our website. The legal basis is then <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit f) GDPR</a>.</p><p>These session cookies are deleted when you close your internet browser.</p>"
+    },
+    "dataProtectionParagraph13": {
+        "de": "<h5>b) Drittanbieter-Cookies</h5><p>Gegebenenfalls werden mit unserem Internetauftritt auch Cookies von Partnerunternehmen, mit denen wir zum Zwecke der Werbung, der Analyse oder der Funktionalitäten unseres Internetauftritts zusammenarbeiten, verwendet.</p><p>Die Einzelheiten hierzu, insbesondere zu den Zwecken und den Rechtsgrundlagen der Verarbeitung solcher Drittanbieter-Cookies, entnehmen Sie bitte den nachfolgenden Informationen.</p>",
+        "en": "<h5>b) Third-party cookies</h5><p>Possibly, cookies from partner companies with whom we cooperate for the purpose of advertising, analysis, or functionalities of our website are also used with our website.</p><p>Please refer to the following information for details, especially regarding the purposes and legal bases of processing such third-party cookies.</p>"
+    },
+    "dataProtectionParagraph14": {
+        "de": "<h5>c) Beseitigungsmöglichkeit</h5><p>Sie können die Installation der Cookies durch eine Einstellung Ihres Internet-Browsers verhindern oder einschränken. Ebenfalls können Sie bereits gespeicherte Cookies jederzeit löschen. Die hierfür erforderlichen Schritte und Maßnahmen hängen jedoch von Ihrem konkret genutzten Internet-Browser ab. Bei Fragen benutzen Sie daher bitte die Hilfefunktion oder Dokumentation Ihres Internet-Browsers oder wenden sich an dessen Hersteller bzw. Support. Bei sog. Flash-Cookies kann die Verarbeitung allerdings nicht über die Einstellungen des Browsers unterbunden werden. Stattdessen müssen Sie insoweit die Einstellung Ihres Flash-Players ändern. Auch die hierfür erforderlichen Schritte und Maßnahmen hängen von Ihrem konkret genutzten Flash-Player ab. Bei Fragen benutzen Sie daher bitte ebenso die Hilfefunktion oder Dokumentation Ihres Flash-Players oder wenden sich an den Hersteller bzw. Benutzer-Support.</p><p>Sollten Sie die Installation der Cookies verhindern oder einschränken, kann dies allerdings dazu führen, dass nicht sämtliche Funktionen unseres Internetauftritts vollumfänglich nutzbar sind.</p>",
+        "en": "<h5>c) Possibility of removal</h5><p>You can prevent or restrict the installation of cookies by adjusting your internet browser settings. You can also delete already stored cookies at any time. The steps and measures required for this depend on the specific internet browser you are using. If you have any questions, please use the help function or documentation of your internet browser or contact the manufacturer or support. However, with so-called flash cookies, the processing cannot be prevented via the browser settings. Instead, you must change the settings of your flash player accordingly. The steps and measures required for this also depend on the specific flash player you are using. If you have any questions, please also use the help function or documentation of your flash player or contact the manufacturer or user support.</p><p>If you prevent or restrict the installation of cookies, this may result in not all functions of our website being fully usable.</p>"
+    },
+    "dataProtectionParagraph15": {
+        "de": "<h4>Kontaktanfragen / Kontaktmöglichkeit</h4><p>Sofern Sie per Kontaktformular oder E-Mail mit uns in Kontakt treten, werden die dabei von Ihnen angegebenen Daten zur Bearbeitung Ihrer Anfrage genutzt. Die Angabe der Daten ist zur Bearbeitung und Beantwortung Ihre Anfrage erforderlich – ohne deren Bereitstellung können wir Ihre Anfrage nicht oder allenfalls eingeschränkt beantworten.</p><p>Rechtsgrundlage für diese Verarbeitung ist <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. b) DSGVO</a>.</p><p>Ihre Daten werden gelöscht, sofern Ihre Anfrage abschließend beantwortet worden ist und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen, wie bspw. bei einer sich etwaig anschließenden Vertragsabwicklung.</p>",
+        "en": "<h4>Contact inquiries / Contact options</h4><p>If you contact us via contact form or email, the data you provide will be used to process your inquiry. Providing the data is necessary to process and respond to your inquiry - without providing it, we cannot answer your inquiry or can only do so to a limited extent.</p><p>The legal basis for this processing is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. b) GDPR</a>.</p><p>Your data will be deleted once your inquiry has been conclusively answered and there are no legal retention obligations against deletion, such as in the case of a subsequent contract execution.</p>"
+    },
+    "dataProtectionParagraph16": {
+        "de": "<h4>Instagram</h4><p>Zur Bewerbung unserer Produkte und Leistungen sowie zur Kommunikation mit Interessenten oder Kunden betreiben wir eine Firmenpräsenz auf der Plattform Instagram.</p><p>Auf dieser Social-Media-Plattform sind wir gemeinsam mit der Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland, verantwortlich.</p><p>Der Datenschutzbeauftragte von Instagram kann über ein Kontaktformular erreicht werden:</p><p><a href='https://www.facebook.com/help/contact/540977946302970' rel='nofollow noopener' target='_blank'>https://www.facebook.com/help/contact/540977946302970</a></p><p>Die gemeinsame Verantwortlichkeit haben wir in einer Vereinbarung bezüglich der jeweiligen Verpflichtungen im Sinne der DSGVO geregelt. Diese Vereinbarung, aus der sich die gegenseitigen Verpflichtungen ergeben, ist unter dem folgenden Link abrufbar:</p><p><a href='https://www.facebook.com/legal/terms/page_controller_addendum' rel='nofollow noopener' target='_blank'>https://www.facebook.com/legal/terms/page_controller_addendum</a></p><p>Rechtsgrundlage für die dadurch erfolgende und nachfolgend wiedergegebene Verarbeitung von personenbezogenen Daten ist <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f DSGVO</a>. Unser berechtigtes Interesse besteht an der Analyse, der Kommunikation sowie dem Absatz und der Bewerbung unserer Produkte und Leistungen.</p><p>Rechtsgrundlage kann auch eine Einwilligung des Nutzers gemäß <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. a DSGVO</a> gegenüber dem Plattformbetreiber sein. Die Einwilligung hierzu kann der Nutzer nach <a href='https://dejure.org/gesetze/DSGVO/7.html' title='Art. 7 DSGVO: Bedingungen für die Einwilligung' rel='nofollow noopener' target='_blank'>Art. 7 Abs. 3 DSGVO</a> jederzeit durch eine Mitteilung an den Plattformbetreiber für die Zukunft widerrufen.</p><p>Bei dem Aufruf unseres Onlineauftritts auf der Plattform Instagram werden von der Meta Platforms Ireland Limited als Betreiberin der Plattform in der EU Daten des Nutzers (z.B. persönliche Informationen, IP-Adresse etc.) verarbeitet.</p><p>Diese Daten des Nutzers dienen zu statistischen Informationen über die Inanspruchnahme unserer Firmenpräsenz auf Instagram. Die Meta Platforms Ireland Limited nutzt diese Daten zu Marktforschungs- und Werbezwecken sowie zur Erstellung von Profilen der Nutzer. Anhand dieser Profile ist es der Meta Platforms Ireland Limited beispielsweise möglich, die Nutzer innerhalb und außerhalb von Instagram interessenbezogen zu bewerben. Ist der Nutzer zum Zeitpunkt des Aufrufes in seinem Account auf Instagram eingeloggt, kann die Meta Platforms Ireland Limited zudem die Daten mit dem jeweiligen Nutzerkonto verknüpfen.</p><p>Im Falle einer Kontaktaufnahme des Nutzers über Instagram werden die bei dieser Gelegenheit eingegebenen personenbezogenen Daten des Nutzers zur Bearbeitung der Anfrage genutzt. Die Daten des Nutzers werden bei uns gelöscht, sofern die Anfrage des Nutzers abschließend beantwortet wurde und keine gesetzlichen Aufbewahrungspflichten, wie z.B. bei einer anschließenden Vertragsabwicklung, entgegenstehen.</p><p>Zur Verarbeitung der Daten werden von der Meta Platforms Ireland Limited ggf. auch Cookies gesetzt.</p><p>Sollte der Nutzer mit dieser Verarbeitung nicht einverstanden sein, so besteht die Möglichkeit, die Installation der Cookies durch eine entsprechende Einstellung des Browsers zu verhindern. Bereits gespeicherte Cookies können ebenfalls jederzeit gelöscht werden. Die Einstellungen hierzu sind vom jeweiligen Browser abhängig. Bei Flash-Cookies lässt sich die Verarbeitung nicht über die Einstellungen des Browsers unterbinden, sondern durch die entsprechende Einstellung des Flash-Players. Sollte der Nutzer die Installation der Cookies verhindern oder einschränken, kann dies dazu führen, dass nicht sämtliche Funktionen von Facebook vollumfänglich nutzbar sind.</p><p>Näheres zu den Verarbeitungstätigkeiten, deren Unterbindung und zur Löschung der von Instagram verarbeiteten Daten finden sich in der Datenrichtlinie von Instagram:</p><p><a href='https://help.instagram.com/519522125107875' rel='nofollow noopener' target='_blank'>https://help.instagram.com/519522125107875</a></p><p>Es ist nicht ausgeschlossen, dass die Verarbeitung durch die Meta Platforms Ireland Limited auch über die Meta Platforms, Inc., 1601 Willow Road, Menlo Park, California 94025 in den USA erfolgt.</p>",
+        "en": "<h4>Instagram</h4><p>To promote our products and services and to communicate with interested parties or customers, we operate a company presence on the Instagram platform.</p><p>On this social media platform, we are jointly responsible with Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.</p><p>The data protection officer of Instagram can be reached via a contact form:</p><p><a href='https://www.facebook.com/help/contact/540977946302970' rel='nofollow noopener' target='_blank'>https://www.facebook.com/help/contact/540977946302970</a></p><p>We have regulated the joint responsibility in an agreement regarding the respective obligations in accordance with the GDPR. This agreement, from which the mutual obligations arise, can be accessed at the following link:</p><p><a href='https://www.facebook.com/legal/terms/page_controller_addendum' rel='nofollow noopener' target='_blank'>https://www.facebook.com/legal/terms/page_controller_addendum</a></p><p>The legal basis for the processing of personal data that occurs as a result and is reproduced below is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f GDPR</a>. Our legitimate interest lies in the analysis, communication, as well as the sale and promotion of our products and services.</p><p>The legal basis may also be a consent of the user in accordance with <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. a GDPR</a> towards the platform operator. The user can revoke this consent at any time for the future by notifying the platform operator in accordance with <a href='https://dejure.org/gesetze/DSGVO/7.html' title='Art. 7 DSGVO: Conditions for consent' rel='nofollow noopener' target='_blank'>Art. 7 para. 3 GDPR</a>.</p><p>When accessing our online presence on the Instagram platform, data of the user (e.g., personal"
+    },
+    "dataProtectionParagraph17": {
+        "de": "<h4>YouTube</h4><p>Wir unterhalten bei YouTube eine Onlinepräsenz um unser Unternehmen sowie unsere Leistungen zu präsentieren und mit Kunden/Interessenten zu kommunizieren. YouTube ist ein Service der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein Tochterunternehmen der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA.</p><p>Insofern weisen wir darauf hin, dass die Möglichkeit besteht, dass Daten der Nutzer außerhalb der Europäischen Union, insbesondere in den USA, verarbeitet werden. Hierdurch können gesteigerte Risiken für die Nutzer insofern bestehen, als dass z.B. der spätere Zugriff auf die Nutzerdaten erschwert werden kann. Auch haben wir keinen Zugriff auf diese Nutzerdaten. Die Zugriffsmöglichkeit liegt ausschließlich bei YouTube.</p><p>Die Datenschutzhinweise von YouTube finden Sie unter</p><p><a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p>",
+        "en": "<h4>YouTube</h4><p>We maintain an online presence on YouTube to present our company and our services and to communicate with customers/interested parties. YouTube is a service of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, a subsidiary of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA.</p><p>In this respect, we would like to point out that there is a possibility that user data may be processed outside the European Union, particularly in the USA. This may pose increased risks for users in that, for example, later access to user data may be more difficult. We also do not have access to this user data. The access possibility lies solely with YouTube.</p><p>You can find YouTube's privacy policy at</p><p><a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p>"
+    },
+    "dataProtectionParagraph18": {
+        "de": "<h4>Allgemeine Verlinkung auf Profile bei Drittanbietern</h4><p>Der Anbieter setzt auf der Website eine Verlinkung auf die nachstehend aufgeführten sozialen Netzwerke ein.</p><p>Rechtsgrundlage ist hierbei <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f DSGVO</a>. Das berechtigte Interesse des Anbieters besteht an der Verbesserung der Nutzungsqualität der Website.</p><p>Die Einbindung der Plugins erfolgt dabei über eine verlinkte Grafik. Erst durch einen Klick auf die entsprechende Grafik wird der Nutzer zu dem Dienst des jeweiligen sozialen Netzwerks weitergeleitet.</p><p>Nach der Weiterleitung des Kunden werden durch das jeweilige Netzwerk Informationen über den Nutzer erfasst. Dies sind zunächst Daten wie IP-Adresse, Datum, Uhrzeit und besuchte Seite. Ist der Nutzer währenddessen in seinem Benutzerkonto des jeweiligen Netzwerks eingeloggt, kann der Netzwerk-Betreiber ggf. die gesammelten Informationen des konkreten Besuches des Nutzers dem persönlichen Account des Nutzers zuordnen. Interagiert der Nutzer über einen „Teilen“-Button des jeweiligen Netzwerks, können diese Informationen in dem persönlichen Benutzerkonto des Nutzers gespeichert und ggf. veröffentlicht werden. Will der Nutzer verhindern, dass die gesammelten Informationen unmittelbar seinem Benutzerkonto zugeordnet werden, muss sich der Nutzer vor dem Anklicken der Grafik ausloggen. Zudem besteht die Möglichkeit, das jeweilige Benutzerkonto entsprechend zu konfigurieren.</p>",
+        "en": "<h4>General linking to profiles on third-party providers</h4><p>The provider uses a link to the social networks listed below on the website.</p><p>The legal basis for this is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f GDPR</a>. The provider's legitimate interest lies in improving the usability of the website.</p><p>The integration of the plugins is done via a linked graphic. Only by clicking on the corresponding graphic will the user be redirected to the service of the respective social network.</p><p>After redirecting the customer, information about the user is collected by the respective network. Initially, this includes data such as IP address, date, time, and visited page. If the user is logged into his user account of the respective network during this time, the network operator may assign the collected information from the specific visit to the user's personal account. If the user interacts via a \"share\" button of the respective network, this information can be stored in the user's personal user account and possibly published. If the user wants to prevent that the collected information is directly assigned to his user account, he must log out before clicking on the graphic. In addition, there is a possibility to configure the respective user account accordingly.</p>"
+    },
+    "dataProtectionParagraph19": {
+        "de": "<p>Folgende soziale Netzwerke sind vom Anbieter verlinkt:</p><h4>Instagram</h4><p>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.</p><p>Datenschutzerklärung:&nbsp;<a href='https://help.instagram.com/519522125107875' rel='nofollow noopener' target='_blank'>https://help.instagram.com/519522125107875</a></p><h4>YouTube</h4><p>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein Tochterunternehmen der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA</p><p>Datenschutzerklärung: <a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p><h4>TikTok</h4><p>TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Irland.</p><p>Datenschutzerklärung:&nbsp;<a href='https://www.tiktok.com/legal/privacy-policy' target='_blank' rel='noopener nofollow'>https://www.tiktok.com/legal/privacy-policy</a></p><h4>Telegram</h4><p>Telegram Messenger LLP, 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, Großbritannien.</p><p>Datenschutzerklärung:&nbsp;<a href='https://telegram.org/privacy' target='_blank' rel='noopener nofollow'>https://telegram.org/privacy</a></p><h4>WhatsApp</h4><p>WhatsApp Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland, ein Tochterunternehmen von Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, USA.</p><p>Datenschutzerklärung:&nbsp;<a href='https://www.whatsapp.com/legal/privacy-policy' target='_blank' rel='noopener nofollow'>https://www.whatsapp.com/legal/privacy-policy</a></p><h4>Discord</h4><p>Discord Inc., 444 Castro Street, San Francisco, CA 94114, USA.</p><p>Datenschutzerklärung:&nbsp;<a href='https://discord.com/privacy' target='_blank' rel='noopener nofollow'>https://discord.com/privacy</a></p><h4>Spotify</h4><p>Spotify AB, Regeringsgatan 19, 111 53 Stockholm, Schweden.</p><p>Datenschutzerklärung:&nbsp;<a href='https://www.spotify.com/de/legal/privacy-policy/' target='_blank' rel='noopener nofollow'>https://www.spotify.com/de/legal/privacy-policy/</a></p><h4>Steam</h4><p>Valve Corporation, 10400 NE 4th Street, Bellevue, WA 98004, USA.</p><p>Datenschutzerklärung:&nbsp;<a href='https://store.steampowered.com/privacy_agreement/' target='_blank' rel='noopener nofollow'>https://store.steampowered.com/privacy_agreement/</a></p><h4>Twitch</h4><p>Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109, USA.</p><p>Datenschutzerklärung:&nbsp;<a href='https://www.twitch.tv/p/legal/privacy-notice/' target='_blank' rel='noopener nofollow'>https://www.twitch.tv/p/legal/privacy-notice/</a></p><p>Die Datenschutzerklärungen der Anbieter sind nicht Bestandteil dieser Datenschutzerklärung. Der Anbieter hat keinen Einfluss auf die Verarbeitung der Daten durch die Anbieter.</p>",
+        "en": "<p>The following social networks are linked by the provider:</p><h4>Instagram</h4><p>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.</p><p>Privacy policy:&nbsp;<a href='https://help.instagram.com/519522125107875' rel='nofollow noopener' target='_blank'>https://help.instagram.com/519522125107875</a></p><h4>YouTube</h4><p>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, a subsidiary of Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA</p><p>Privacy policy: <a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p><h4>TikTok</h4><p>TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Ireland.</p><p>Privacy policy:&nbsp;<a href='https://www.tiktok.com/legal/privacy-policy' target='_blank' rel='noopener nofollow'>https://www.tiktok.com/legal/privacy-policy</a></p><h4>Telegram</h4><p>Telegram Messenger LLP, 71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, UK.</p><p>Privacy policy:&nbsp;<a href='https://telegram.org/privacy' target='_blank' rel='noopener nofollow'>https://telegram.org/privacy</a></p><h4>WhatsApp</h4><p>WhatsApp Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland, a subsidiary of Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, USA.</p><p>Privacy policy:&nbsp;<a href='https://www.whatsapp.com/legal/privacy-policy' target='_blank' rel='noopener nofollow'>https://www.whatsapp.com/legal/privacy-policy</a></p><h4>Discord</h4><p>Discord Inc., 444 Castro Street, San Francisco, CA 94114, USA.</p><p>Privacy policy:&nbsp;<a href='https://discord.com/privacy' target='_blank' rel='noopener nofollow'>https://discord.com/privacy</a></p><h4>"
+    },
+    "dataProtectionParagraph20": {
+        "de": "<h4>FontAwesome</h4><p>Um Schriften und visuelle Elemente unseres Internetauftritts darstellen zu können, setzen wir die externen Schriftarten von FontAwesome ein. Bei FontAwesome handelt es sich um einen Dienst der</p><p>Fonticons Inc., 6 Porter Road, Apartment 3R, Cambridge, MA 02140, USA, nachfolgend nur „FontAwesome“ genannt.</p><p>Bei dem Aufruf unseres Internetauftritts wird eine Verbindung zum Server von FontAwesome in den USA aufgebaut, um so die Darstellung von Schriften und visuellen Elemente zu ermöglichen und zu aktualisieren.</p><p>Rechtsgrundlage ist <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f) DSGVO</a>. Unser berechtigtes Interesse liegt in der Optimierung und dem wirtschaftlichen Betrieb unseres Internetauftritts.</p><p>Durch die bei Aufruf unseres Internetauftritts hergestellte Verbindung zum Server von FontAwesome kann FontAwesome ermitteln, von welcher Website Ihre Anfrage gesendet worden ist und an welche IP-Adresse die Darstellung der Schrift zu übermitteln ist.</p><p>FontAwesome bietet unter</p><p><a href='https://fontawesome.com/privacy' target='_blank' rel='noopener nofollow'>https://fontawesome.com/privacy</a></p><p>weitere Informationen an und zwar insbesondere zu den Möglichkeiten der Unterbindung der Datennutzung.</p>",
+        "en": "<h4>FontAwesome</h4><p>To display fonts and visual elements of our website, we use the external fonts from FontAwesome. FontAwesome is a service of</p><p>Fonticons Inc., 6 Porter Road, Apartment 3R, Cambridge, MA 02140, USA, hereinafter referred to as \"FontAwesome\".</p><p>When accessing our website, a connection is established to FontAwesome's server in the USA to enable and update the display of fonts and visual elements.</p><p>The legal basis is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f) GDPR</a>. Our legitimate interest lies in optimizing and economically operating our website.</p><p>Through the connection established when accessing our website to FontAwesome's server, FontAwesome can determine from which website your request has been sent and to which IP address the display of the font is to be transmitted.</p><p>FontAwesome offers further information at</p><p><a href='https://fontawesome.com/privacy' target='_blank' rel='noopener nofollow'>https://fontawesome.com/privacy</a></p><p>especially regarding the possibilities of preventing data usage.</p>"
+    },
+    "dataProtectionParagraph21": {
+        "de": "<h4>Google Fonts</h4><p>In unserem Internetauftritt setzen wir Google Fonts zur Darstellung externer Schriftarten ein. Es handelt sich hierbei um einen Dienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, nachfolgend nur „Google“ genannt.</p><p>Um die Darstellung bestimmter Schriften in unserem Internetauftritt zu ermöglichen, wird bei Aufruf unseres Internetauftritts eine Verbindung zu dem Google-Server in den USA aufgebaut.</p><p>Rechtsgrundlage ist <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f) DSGVO</a>. Unser berechtigtes Interesse liegt in der Optimierung und dem wirtschaftlichen Betrieb unseres Internetauftritts.</p><p>Durch die bei Aufruf unseres Internetauftritts hergestellte Verbindung zu Google kann Google ermitteln, von welcher Website Ihre Anfrage gesendet worden ist und an welche IP-Adresse die Darstellung der Schrift zu übermitteln ist.</p><p>Google bietet unter</p><p><a href='https://adssettings.google.com/authenticated' target='_blank' rel='noopener nofollow'>https://adssettings.google.com/authenticated</a></p><p><a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p><p>weitere Informationen an und zwar insbesondere zu den Möglichkeiten der Unterbindung der Datennutzung.</p>",
+        "en": "<h4>Google Fonts</h4><p>In our website, we use Google Fonts to display external fonts. This is a service of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, hereinafter referred to as \"Google\".</p><p>To enable the display of certain fonts on our website, a connection is established to the Google server in the USA when accessing our website.</p><p>The legal basis is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f) GDPR</a>. Our legitimate interest lies in optimizing and economically operating our website.</p><p>Through the connection established when accessing our website to Google, Google can determine from which website your request has been sent and to which IP address the display of the font is to be transmitted.</p><p>Google offers further information at</p><p><a href='https://adssettings.google.com/authenticated' target='_blank' rel='noopener nofollow'>https://adssettings.google.com/authenticated</a></p><p><a href='https://policies.google.com/privacy' target='_blank' rel='noopener nofollow'>https://policies.google.com/privacy</a></p><p>especially regarding the possibilities of preventing data usage.</p>"
+    },
+    "dataProtectionParagraph22": {
+        "de": "<h4>WhatsApp Kontaktaufnahme</h4><p>Zur Kontaktaufnahme ermöglicht der Anbieter dem Kunden unter anderem die Kontaktmöglichkeit über den Messenger-Dienst WhatsApp. WhatsApp ist ein Dienst der WhatsApp Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland, nachfolgend WhatsApp, eine Tochtergesellschaft von Facebook.</p><p>Durch die Kommunikation des Nutzers mit dem Anbieter über WhatsApp erhält sowohl der Anbieter, als auch WhatsApp die Mobilrufnummer des Nutzers und die Information, dass der Nutzer den Anbieter kontaktiert hat.</p><p>Die vorgenannten Daten werden von WhatsApp auch an Server von Facebook in den USA weitergeleitet und von WhatsApp und Facebook entsprechend der WhatsApp-Datenschutzrichtlinie verarbeitet, was auch die Verarbeitung zu deren eigenen Zwecken, wie der Verbesserung des WhatsApp-Dienstes, beinhaltet.</p><p>_____________________</p><p><strong>Die USA verfügen gegenwärtig nach Ansicht der Datenschutzaufsichtsbehörden allerdings nicht über ein angemessenes Datenschutzniveau. Es bestehen allerdings sogenannte Standardvertragsklauseln:</strong></p><p><a href='https://faq.whatsapp.com/general/about-standard-contractual-clauses' rel='nofollow noopener' target='_blank'>https://faq.whatsapp.com/general/about-standard-contractual-clauses</a></p><p><strong>Jedoch sind dies privatrechtliche Vereinbarungen und haben daher keine direkte Auswirkung auf die Zugriffsmöglichkeiten der Behörden in den USA.</strong></p><p>_____________________</p><p>Näheres zum Zweck und Umfang der Datenerhebung und der weiteren Verarbeitung dieser Daten durch WhatsApp und Facebook sowie diesbezügliche Rechte und Einstellungsmöglichkeiten zum Schutz der Privatsphäre sind in der Datenschutzrichtlinie von WhatsApp enthalten:</p><p><a href='https://www.whatsapp.com/legal/#privacy-policy' rel='nofollow noopener' target='_blank'>https://www.whatsapp.com/legal/#privacy-policy</a>.</p><p>Rechtsgrundlage dieser Verarbeitungen und der Übermittlung an WhatsApp ist <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 S. 1 b. DSGVO</a>, soweit die Kontaktaufnahme eine bestehende Vertragsbeziehung betrifft oder der Anbahnung einer solchen Vertragsbeziehung dient. Sollte die Kontaktaufnahme nicht aufgrund der vorstehenden Zwecke erfolgen, ist Rechtsgrundlage <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Rechtmäßigkeit der Verarbeitung' rel='nofollow noopener' target='_blank'>Art. 6 Abs. 1 lit. f DSGVO</a>. Das berechtigte Interesse des Anbieters besteht an der Verbesserung der Servicequalität.</p>",
+        "en": "<h4>WhatsApp Contact</h4><p>For contact, the provider allows the customer to contact via the messenger service WhatsApp. WhatsApp is a service of WhatsApp Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland, hereinafter WhatsApp, a subsidiary of Facebook.</p><p>By communicating with the provider via WhatsApp, both the provider and WhatsApp receive the user's mobile number and the information that the user has contacted the provider.</p><p>The aforementioned data is also forwarded by WhatsApp to servers of Facebook in the USA and processed by WhatsApp and Facebook in accordance with the WhatsApp privacy policy, which also includes processing for their own purposes, such as improving the WhatsApp service.</p><p>_____________________</p><p><strong>However, according to the data protection supervisory authorities, the USA currently does not have an adequate level of data protection. However, there are so-called standard contractual clauses:</strong></p><p><a href='https://faq.whatsapp.com/general/about-standard-contractual-clauses' rel='nofollow noopener' target='_blank'>https://faq.whatsapp.com/general/about-standard-contractual-clauses</a></p><p><strong>However, these are private law agreements and therefore have no direct effect on the access possibilities of authorities in the USA.</strong></p><p>_____________________</p><p>Further information on the purpose and scope of data collection and further processing of this data by WhatsApp and Facebook as well as related rights and settings options for privacy protection are included in WhatsApp's privacy policy:</p><p><a href='https://www.whatsapp.com/legal/#privacy-policy' rel='nofollow noopener' target='_blank'>https://www.whatsapp.com/legal/#privacy-policy</a>.</p><p>The legal basis for these processing activities and the transfer to WhatsApp is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 S. 1 b. GDPR</a>, as far as contacting concerns an existing contractual relationship or serves to initiate such a contractual relationship. If contact is not made for the above purposes, the legal basis is <a href='https://dejure.org/gesetze/DSGVO/6.html' title='Art. 6 DSGVO: Lawfulness of processing' rel='nofollow noopener' target='_blank'>Art. 6 para. 1 lit. f GDPR</a>. The provider's legitimate interest lies in improving service quality.</p>"
+    },
+    "dataProtectionLink": {
+        "de": "<p><a href='https://www.generator-datenschutzerklärung.de' target='_blank' rel='noopener'>Muster-Datenschutzerklärung</a> der <a href='https://www.bewertung-löschen24.de' rel='nofollow noopener' target='_blank'>Anwaltskanzlei Weiß &amp; Partner</a></p>",
+        "en": "<p><a href='https://www.generator-datenschutzerklärung.de' target='_blank' rel='noopener'>Sample privacy policy</a> of the <a href='https://www.bewertung-löschen24.de' rel='nofollow noopener' target='_blank'>law firm Weiß &amp; Partner</a></p>"
+    },
+    "sourcesHeader": {
+        "de": "Quellenangaben",
+        "en": "Sources"
+    },
+    "toProvider": {
+        "de": "Zum Anbieter",
+        "en": "To the provider"
+    },
+    "fontAwesome": {
+        "de": "Font Awesome ist eine umfangreiche Sammlung von über 1.500 Icons, die als Schriftarten und SVG-Dateien bereitgestellt werden. Diese Icons ermöglichen es Entwicklern, Symbole wie Social Media-Icons, Navigationspfeile und andere UI-Elemente auf einfache Weise in Websites und Webanwendungen zu integrieren. Die Icons sind vollständig anpassbar und skalierbar, was bedeutet, dass sie in Größe, Farbe und Stil flexibel bearbeitet werden können, ohne die Qualität zu beeinträchtigen. Ich nutze Font Awesome, um meiner Website eine klare visuelle Struktur zu verleihen und den Nutzern eine intuitivere Navigation zu ermöglichen. Durch die Flexibilität der Icons kann ich diese sowohl an das Design der Seite anpassen als auch sicherstellen, dass sie auf verschiedenen Geräten und Bildschirmgrößen scharf und gut sichtbar bleiben.",
+        "en": "Font Awesome is a comprehensive collection of over 1,500 icons provided as fonts and SVG files. These icons allow developers to easily integrate symbols such as social media icons, navigation arrows, and other UI elements into websites and web applications. The icons are fully customizable and scalable, meaning they can be edited in size, color, and style without compromising on quality. I use Font Awesome to give my website a clear visual structure and provide users with more intuitive navigation. Thanks to the flexibility of these icons, I can customize them to match the design of the site and ensure they remain crisp and visible across different devices and screen sizes."
+    },
+    "googleFonts": {
+        "de": "Google Fonts ist eine umfassende Sammlung von über 1.000 kostenlosen Webschriftarten, die speziell für die Verwendung auf Websites und in Webanwendungen optimiert wurden. Diese Schriftarten zeichnen sich durch eine hohe Leistung aus, da sie für schnelle Ladezeiten und eine einfache Integration entwickelt wurden. Google Fonts bietet eine breite Auswahl an Stilen und Schriftschnitten, die es ermöglichen, das Design einer Seite zu personalisieren und an die ästhetischen Anforderungen anzupassen. Durch die Nutzung von Google Fonts stelle ich sicher, dass meine Website sowohl visuell ansprechend als auch technisch optimiert ist. Die große Auswahl an Schriftarten ermöglicht es mir, den typografischen Stil der Seite an die Bedürfnisse meiner Zielgruppe und den Gesamtlook der Website anzupassen, während gleichzeitig die Ladegeschwindigkeit der Seite optimiert wird.",
+        "en": "Google Fonts is an extensive collection of over 1,000 free web fonts, specifically optimized for use on websites and web applications. These fonts are designed for high performance, ensuring fast loading times and easy integration. Google Fonts offers a wide selection of styles and font cuts, allowing for the customization of a page's design to meet aesthetic needs. By using Google Fonts, I ensure that my website is both visually appealing and technically optimized. The vast range of fonts enables me to tailor the typography to the needs of my audience and the overall look of the site while optimizing its loading speed."
+    },
+    "icons8": {
+        "de": "Icons8 ist eine vielseitige Plattform, die eine breite Sammlung von Icons, Illustrationen, Fotos und anderen Designressourcen anbietet, die für Webentwickler und Designer von großem Nutzen sind. Diese Ressourcen lassen sich problemlos in Webprojekte integrieren, um das visuelle Design zu verbessern und die Benutzererfahrung zu optimieren. Icons8 bietet nicht nur eine große Auswahl an Symbolen, sondern auch Tools zur Erstellung von benutzerdefinierten Designs und zur Anpassung der Icons. Ich verwende Icons8, um meiner Website hochwertige visuelle Elemente hinzuzufügen, die das Benutzererlebnis bereichern und gleichzeitig die visuelle Kohärenz der Seite wahren. Diese Ressourcen tragen dazu bei, dass die Website sowohl ästhetisch ansprechend als auch funktional bleibt.",
+        "en": "Icons8 is a versatile platform that offers a wide collection of icons, illustrations, photos, and other design resources that are highly useful for web developers and designers. These resources can easily be integrated into web projects to enhance visual design and optimize the user experience. Icons8 provides not only a vast selection of symbols but also tools for creating custom designs and customizing icons. I use Icons8 to add high-quality visual elements to my website, enriching the user experience while maintaining the visual consistency of the site. These resources help ensure that the website remains both aesthetically appealing and functional."
+    },
+    "flaticon": {
+        "de": "Flaticon ist eine der größten Plattformen für Vektor-Icons und Grafiken und bietet eine riesige Sammlung von Symbolen in verschiedenen Stilen, Formaten und Größen. Mit Millionen von kostenlosen und Premium-Icons ist Flaticon eine wertvolle Ressource für Designer, Entwickler und Content-Ersteller, die nach hochwertigen, anpassbaren Symbolen suchen. Die Icons auf Flaticon decken eine Vielzahl von Themen ab, von klassischen UI-Elementen bis hin zu branchenspezifischen Symbolen. Ich verwende Flaticon, um meiner Website zusätzliche visuelle Elemente hinzuzufügen, die das Design bereichern und den Nutzern helfen, Informationen schneller und intuitiver zu erfassen. Die enorme Vielfalt und die einfache Integration der Icons ermöglichen es mir, genau die richtigen Symbole für jedes Designprojekt auszuwählen.",
+        "en": "Flaticon is one of the largest platforms for vector icons and graphics, offering an enormous collection of symbols in various styles, formats, and sizes. With millions of free and premium icons, Flaticon is a valuable resource for designers, developers, and content creators looking for high-quality, customizable icons. The icons on Flaticon cover a wide range of topics, from classic UI elements to industry-specific symbols. I use Flaticon to add extra visual elements to my website, enriching the design and helping users capture information more quickly and intuitively. The vast variety and easy integration of the icons allow me to select the perfect symbols for each design project."
+    },
+    "chatgpt": {
+        "de": "ChatGPT ist ein KI-gesteuertes Sprachmodell, das von OpenAI entwickelt wurde und eine Vielzahl von Anwendungen im Bereich der Textverarbeitung ermöglicht. Es ist in der Lage, natürlichsprachliche Texte zu generieren, zu verstehen und darauf zu reagieren, was es zu einem wertvollen Werkzeug für die Entwicklung von Chatbots, die Generierung von Inhalten und die Unterstützung bei kreativen Prozessen macht. In meiner Arbeit nutze ich ChatGPT als Hilfestellung für die Erstellung von Codebeispielen und bei technischen Fragestellungen während des Webentwicklungsprozesses. Es ermöglicht mir, schnelle Lösungen und Inspiration zu finden, was den Entwicklungsprozess effizienter und kreativer macht.",
+        "en": "ChatGPT is an AI-driven language model developed by OpenAI that enables a wide range of applications in text processing. It can generate, understand, and respond to natural language texts, making it a valuable tool for developing chatbots, generating content, and assisting with creative processes. In my work, I use ChatGPT as assistance for generating code examples and for solving technical issues during the web development process. It allows me to find quick solutions and inspiration, making the development process more efficient and creative."
+    },
+    "linkedin": {
+        "de": "LinkedIn ist eine der weltweit größten professionellen Plattformen für berufliche Netzwerke und Karrieremöglichkeiten. Sie ermöglicht es Nutzern, ihre beruflichen Erfahrungen, Qualifikationen und Netzwerke zu präsentieren und mit anderen Fachleuten sowie potenziellen Arbeitgebern zu interagieren. Durch die Nutzung von LinkedIn können Nutzer ihre berufliche Sichtbarkeit erhöhen, neue berufliche Chancen finden und mit Branchenexperten in Kontakt treten. Ich verwende LinkedIn, um mich mit anderen Fachleuten zu vernetzen, meine Expertise in der Webentwicklung und im Content Creation zu zeigen und die Sichtbarkeit meines Projekts zu erhöhen. Es hilft mir, auf dem neuesten Stand der Branche zu bleiben und von anderen Experten zu lernen.",
+        "en": "LinkedIn is one of the world’s largest professional networking platforms, enabling users to showcase their professional experience, qualifications, and networks while interacting with other professionals and potential employers. By using LinkedIn, users can increase their professional visibility, find new career opportunities, and connect with industry experts. I use LinkedIn to network with other professionals, showcase my expertise in web development and content creation, and enhance the visibility of my project. It helps me stay up to date with industry trends and learn from other experts."
+    },
+    "programmingHub": {
+        "de": "ProgrammingHub ist eine beliebte mobile Plattform und App, die Nutzern hilft, Programmierkenntnisse zu erlernen und zu verbessern. Sie bietet interaktive Tutorials, Lernmaterialien und praktische Übungen für eine Vielzahl von Programmiersprachen, von den Grundlagen bis zu fortgeschrittenen Konzepten. Die Plattform ist sowohl für Anfänger als auch für fortgeschrittene Entwickler geeignet, die ihre Fähigkeiten erweitern möchten. Ich nutze ProgrammingHub, um meine Programmierkenntnisse kontinuierlich zu erweitern und neue Technologien und Sprachen zu erlernen. Es ermöglicht mir, auf flexible Weise neues Wissen zu erlangen und mich als Entwickler stetig weiterzuentwickeln, was mir in meiner Arbeit als Webentwickler und in anderen kreativen Bereichen zugutekommt.",
+        "en": "ProgrammingHub is a popular mobile platform and app that helps users learn and enhance their programming skills. It offers interactive tutorials, learning materials, and hands-on exercises for a variety of programming languages, from basics to advanced concepts. The platform is suitable for both beginners and advanced developers who want to expand their skills. I use ProgrammingHub to continuously enhance my programming knowledge and learn new technologies and languages. It allows me to gain new knowledge flexibly and consistently improve myself as a developer, which benefits my work in web development and other creative fields."
+    },
+    "unsplash": {
+        "de": "Unsplash ist eine beliebte Online-Plattform, die eine riesige Sammlung von hochqualitativen, kostenlosen Fotos und Bildern bietet. Die Fotos werden von Fotografen aus der ganzen Welt zur Verfügung gestellt und unter der Unsplash-Lizenz veröffentlicht, die es Nutzern ermöglicht, die Bilder für kommerzielle und nicht-kommerzielle Zwecke zu nutzen, ohne eine Namensnennung des Fotografen zu benötigen. Unsplash ist besonders für Designer, Content Creators und Entwickler nützlich, da es eine einfache Möglichkeit bietet, visuelle Inhalte zu finden, die in Projekten verwendet werden können. Ich nutze Unsplash regelmäßig, um hochwertige Bilder für meine Websites und andere kreative Arbeiten zu finden, die meine Projekte visuell bereichern und meinen Content auf ein neues Level heben.",
+        "en": "Unsplash is a popular online platform that offers a vast collection of high-quality, free photos and images. The photos are contributed by photographers from around the world and are released under the Unsplash License, which allows users to use the images for both commercial and non-commercial purposes without needing to credit the photographer. Unsplash is especially useful for designers, content creators, and developers as it provides an easy way to find visual content that can be used in projects. I use Unsplash regularly to find high-quality images for my websites and other creative works, which enrich my projects visually and take my content to the next level."
+    },
+    "cookie-heading": {
+        "de": "Cookie-Informationen",
+        "en": "Cookie Information"
+    },
+    "cookie-intro": {
+        "de": "Auf dieser Website verwenden wir Cookies, um die Benutzererfahrung zu verbessern. Nachfolgend finden Sie Informationen zu den verwendeten Cookies:",
+        "en": "We use cookies on this website to enhance the user experience. Below you can find information about the cookies we use:"
+    },
+    "cookie-acceptance": {
+        "de": "Indem Sie weiterhin auf der Website navigieren, stimmen Sie der Verwendung dieser Cookies zu.",
+        "en": "By continuing to browse the website, you consent to the use of these cookies."
+    },
+    "cookie-info": {
+        "de": "<li><strong>lang</strong>: Dieser Cookie speichert Ihre bevorzugte Sprache, um Ihnen die Website in der richtigen Sprache anzuzeigen.</li><li><strong>theme</strong>: Dieser Cookie speichert, ob Sie den Light- oder Dark-Mode der Website bevorzugen.</li><li><strong>page</strong>: Ein temporärer Cookie, der die aktuell angezeigte Seite speichert, um die Navigation innerhalb der Website zu erleichtern.</li><li><strong>cookieConsent</strong>: Dieser Cookie wird nur beim ersten Besuch gesetzt, um Ihre Zustimmung zur Verwendung von Cookies zu speichern.</li>",
+        "en": "<li><strong>lang</strong>: This cookie stores your preferred language to display the website in the correct language.</li><li><strong>theme</strong>: This cookie stores whether you prefer the light or dark mode of the website.</li><li><strong>page</strong>: A temporary cookie that stores the currently displayed page to facilitate navigation within the website.</li><li><strong>cookieConsent</strong>: This cookie is set only on the first visit to store your consent to the use of cookies.</li>"
+    },
+    "bannerWelcome": {
+        "de": "Willkommen auf meiner Homepage!",
+        "en": "Welcome to my homepage!"
+    },
+    "bannerInfo": {
+        "de": "Erfahre mehr über meine Projekte, meine Erfahrungen und was mich antreibt.",
+        "en": "Find out more about my projects, my experiences, and what drives me."
+    },
+    "homeAboutMeTextOne": {
+        "de": "Hey, mein Name ist Andreas oder kurz Andi, geboren am 06.10.1998. Ich bin ein leidenschaftlicher Webentwickler und kreativer Mediengestalter mit einem ausgeprägten Interesse für Technologie, digitale Medien und moderne Kommunikation. Meine Schwerpunkte liegen in der Entwicklung benutzerfreundlicher Weblösungen mit NodeJS und MySQL, kombiniert mit ansprechendem Webdesign. Darüber hinaus widme ich mich intensiv der Musikproduktion, dem professionellen Videoschnitt und der Erstellung von Podcasts. Als Livestreamer bin ich regelmäßig auf Plattformen wie Twitch und TikTok aktiv. Ich leite ein engagiertes Social-Media-Team und bringe kreative Projekte mit einem hohen Qualitätsanspruch technisch wie gestalterisch zur Umsetzung. Mein Ziel ist es, innovative Ideen nicht nur zu denken, sondern sie auch mit Präzision und Leidenschaft Wirklichkeit werden zu lassen – stets mit dem Anspruch, mich fachlich und persönlich weiterzuentwickeln.",
+        "en": "Hey, my name is Andreas – or simply Andi – born on October 6, 1998. I am a passionate web developer and creative media designer with a strong affinity for technology, digital media, and modern communication. My core strengths lie in developing user-centric web solutions using NodeJS and MySQL, combined with visually compelling web design. In addition, I am deeply involved in music production, professional video editing, and podcast creation. As a livestreamer, I am regularly active on platforms such as Twitch and TikTok. I lead a dedicated social media team and bring creative projects to life with both technical expertise and aesthetic finesse. My mission is not only to imagine innovative ideas, but to turn them into reality with precision and passion – always striving for continuous growth, both professionally and personally."
+    },
+    "upcoming": {
+        "de": "Erscheint in Kürze",
+        "en": "Upcoming"
+    },
+    "homeNewsHeader": {
+        "de": "Neuigkeiten & Empfehlungen",
+        "en": "News & Highlights"
+    },
+    "projectPodcastHeader": {
+        "de": "Pixel & Pils Podcast",
+        "en": "Pixel & Pils Podcast"
+    },
+    "projectPodcastLink": {
+        "de": "Pixel & Pils Website",
+        "en": "Pixel & Pils Website"
+    },
+    "projectMusicHeader": {
+        "de": "Meine Playlists",
+        "en": "My Playlists"
+    },
+    "mileStones": {
+        "de": "Meine Meilensteine",
+        "en": "My Milestones"
+    },
+    "mileStonesFirstMusic": {
+        "de": "Erste Erfahrungen mit Musik, insbesondere dem Klavierspielen",
+        "en": "Initial exposure to music, particularly playing the piano"
+    },
+    "mileStonesSchool": {
+        "de": "Beginn meiner schulischen Ausbildung",
+        "en": "Commencement of formal education"
+    },
+    "mileStonesFirstStream": {
+        "de": "Erster Livestream auf Twitch",
+        "en": "First livestream on Twitch"
+    },
+    "mileStonesGraficsdesign": {
+        "de": "Erste Auseinandersetzung mit Grafikdesign und visueller Gestaltung",
+        "en": "Initial involvement with graphic design and visual arts"
+    },
+    "mileStonesFirstVideo": {
+        "de": "Erstes YouTube-Video, bearbeitet mit Camtasia Studio 8",
+        "en": "First YouTube video, edited with Camtasia Studio 8"
+    },
+    "mileStonesSchoolOut": {
+        "de": "Abschluss der 10. Klasse mit der Mittleren Reife",
+        "en": "Completion of 10th grade with an intermediate school leaving certificate"
+    },
+    "mileStonesApprenticeship": {
+        "de": "Beginn meiner Ausbildung zum Elektroniker für Energie- und Gebäudetechnik",
+        "en": "Commencement of my apprenticeship as an electronics technician for energy and building technology"
+    },
+    "mileStonesApprenticeshipEnd": {
+        "de": "Erfolgreicher Abschluss meiner Ausbildung",
+        "en": "Successful completion of my apprenticeship"
+    },
+    "mileStonesWebdev": {
+        "de": "Erste Erfahrungen in der Webentwicklung",
+        "en": "Initial exposure to web development"
+    },
+    "mileStonesDavinci": {
+        "de": "Wechsel zu der professionellen Videoschnittsoftware DaVinci Resolve",
+        "en": "Transition to the professional video editing software DaVinci Resolve"
+    },
+    "mileStonesMusicProduce": {
+        "de": "Erste Fortschritte in der Musikproduktion mit FL Studio",
+        "en": "First advancements in music production using FL Studio"
+    },
+    "mileStonesWriting": {
+        "de": "Erste eigene schriftliche Werke und Geschichten",
+        "en": "First written works and stories"
+    },
+    "mileStonesTeamGiftwolf": {
+        "de": "Gründung des Social Media Teams Giftwolf",
+        "en": "Founding of the social media team Giftwolf"
+    },
+    "mileStonesWebsite": {
+        "de": "Erfolgreiche Veröffentlichung meiner ersten fertigen Website",
+        "en": "Successful launch of my first completed website"
+    },
+    "mileStonesPodcast": {
+        "de": "Aufnahme der ersten Folge des Podcasts 'Pixel & Pils'",
+        "en": "Recording of the first episode of the 'Pixel & Pils' podcast"
+    },
+    "homeProjects": {
+        "de": "Aktuellste Projekte",
+        "en": "Latest projects"
+    },
+    "moreFollows": {
+        "de": "Mehr Inhalte folgen...",
+        "en": "More content to follow..."
+    }
+}

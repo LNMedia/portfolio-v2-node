@@ -1,0 +1,110 @@
+[
+    {
+        "src": "images/skills/skillsTree/html5.webp",
+        "alt": "Hypertext Markup Language (HTML)",
+        "title": "Hypertext Markup Language (HTML)",
+        "onclick": "openLink('html5')"
+    },
+    {
+        "src": "images/skills/skillsTree/php.webp",
+        "alt": "Hypertext Preprocessor (PHP)",
+        "title": "Hypertext Preprocessor (PHP)",
+        "onclick": "openLink('php')"
+    },
+    {
+        "src": "images/skills/skillsTree/css3.webp",
+        "alt": "Cascading Style Sheets (CSS)",
+        "title": "Cascading Style Sheets (CSS)",
+        "onclick": "openLink('css3')"
+    },
+    {
+        "src": "images/skills/skillsTree/js.webp",
+        "alt": "JavaScript (JS)",
+        "title": "JavaScript (JS)",
+        "onclick": "openLink('javascript')"
+    },
+    {
+        "src": "images/skills/skillsTree/nodejs.webp",
+        "alt": "NodeJS",
+        "title": "NodeJS",
+        "onclick": "openLink('nodejs')"
+    },
+    {
+        "src": "images/skills/skillsTree/vscode.webp",
+        "alt": "Visual Studio Code (VSCode)",
+        "title": "Visual Studio Code (VSCode)",
+        "onclick": "openLink('vscode')"
+    },
+    {
+        "src": "images/skills/skillsTree/cmd.webp",
+        "alt": "Command Line (Windows)",
+        "title": "Command Line (Windows)",
+        "onclick": "openLink('cmd')"
+    },
+    {
+        "src": "images/skills/skillsTree/powershell.webp",
+        "alt": "Powershell (Windows)",
+        "title": "Powershell (Windows)",
+        "onclick": "openLink('ps')"
+    },
+    {
+        "src": "images/skills/skillsTree/chatgpt.webp",
+        "alt": "ChatGPT",
+        "title": "ChatGPT",
+        "onclick": "openLink('chatgpt')"
+    },
+    {
+        "src": "images/skills/skillsTree/xampp.webp",
+        "alt": "Server Manager (XAMPP)",
+        "title": "Server Manager (XAMPP)",
+        "onclick": "openLink('xampp')"
+    },
+    {
+        "src": "images/skills/skillsTree/apache.webp",
+        "alt": "Apache Server",
+        "title": "Apache Server",
+        "onclick": "openLink('apache')"
+    },
+    {
+        "src": "images/skills/skillsTree/mysql.webp",
+        "alt": "MySQL Server",
+        "title": "MySQL Server",
+        "onclick": "openLink('mysql')"
+    },
+    {
+        "src": "images/skills/skillsTree/davinci.webp",
+        "alt": "DaVinci Resolve",
+        "title": "DaVinci Resolve",
+        "onclick": "openLink('davinci')"
+    },
+    {
+        "src": "images/skills/skillsTree/obsstudio.webp",
+        "alt": "OBS Studio",
+        "title": "OBS Studio",
+        "onclick": "openLink('obsstudio')"
+    },
+    {
+        "src": "images/skills/skillsTree/flstudio.webp",
+        "alt": "Fruity Loops Studio (FL Studio)",
+        "title": "Fruity Loops Studio (FL Studio)",
+        "onclick": "openLink('flstudio')"
+    },
+    {
+        "src": "images/skills/skillsTree/voicemeeter.webp",
+        "alt": "VoiceMeeter",
+        "title": "VoiceMeeter",
+        "onclick": "openLink('voicemeeter')"
+    },
+    {
+        "src": "images/skills/skillsTree/trello.webp",
+        "alt": "Trello",
+        "title": "Trello",
+        "onclick": "openLink('trello')"
+    },
+    {
+        "src": "images/skills/skillsTree/notion.webp",
+        "alt": "Notion",
+        "title": "Notion",
+        "onclick": "openLink('notion')"
+    }
+]

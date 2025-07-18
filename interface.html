@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+        <title>Andreas Reimann</title><meta name="author" content="Andreas Reimann">
+        <meta name="description" content="Welcome to my personal portfolio. areimann.de">
+        <meta name="keywords" content="Andreas Reimann, Portfolio, Webentwicklung, Webdevelopment, Musik, Content Creation, Streaming">
+        <link rel="canonical" href="https://areimann.de/" />
+        <link rel="icon" href="/images/logo.webp">
+        <meta property=og:type content=website>
+        <meta property=og:title content="Andreas Reimann">
+        <meta property=og:url content=https://areimann.de/ >
+        <meta property=og:site_name content=Areimann.de>
+        <meta property=og:image content=/images/logo.webp>
+        <meta property=og:image:width content=500>
+        <meta property=og:image:height content=500>
+        <meta property=og:image:type content=image/webp>
+        <meta name="twitter:card" content="summary_medium_image" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/styles/main.css?v=1"><link rel="stylesheet" href="/styles/pages.css?v=1">
+        <script>function setTemporaryCookie(e,t){document.cookie=`${e}=${t}; path=/`}function setCookie(e,t,o){let i="";if(o){let n=new Date;n.setTime(n.getTime()+864e5*o),i="; expires="+n.toUTCString()}document.cookie=e+"="+(t||"")+i+"; path=/"}function getCookie(e){for(var t=document.cookie.split(";"),o=0;o<t.length;++o)if(t[o].trim().match("^"+e+"="))return t[o].replace(`${e}=`,"").trim();return null}function deleteCookie(e){setCookie(e,"",-1)}function updateURLWithCookies(){let e=getCookie("lang"),t=getCookie("theme"),o=getCookie("page")||"home",i=window.location.href.split("?")[0],n=`${i}?page=${o}&theme=${t}&lang=${e}`;window.history.replaceState({},"",n),applySettings(e,t),setTimeout(()=>{document.getElementById("loadingScreen").style.display="none",initLanguage()},3e3)}function setCookiesFromURL(){let e=new URLSearchParams(window.location.search),t=e.get("lang")||getCookie("lang"),o=e.get("theme")||getCookie("theme"),i=e.get("page")||"home";setCookie("lang",t,365),setCookie("theme",o,365),setTemporaryCookie("page",i),applySettings(t,o),loadPage(i)}function applySettings(e,t){document.documentElement.lang=e,"dark"===t?setTheme("dark"):setTheme("light")}</script>
+    </head>
+    <body onclick="handleBodyClick(event)">
+        <!-- Small Screen Message -->
+        <div id="screenSize"><p id="tinyScreenText" class="anonymous-pro-regular"></p></div>
+        <script>const messages={de:["Gl\xfcckwunsch! Du nutzt jetzt den kleinsten Bildschirm der Welt!","Braucht jemand eine Lupe? \uD83E\uDDD0","Das hier ist keine Smartwatch, mach das Fenster gr\xf6\xdfer! \uD83D\uDE06","Hier k\xf6nnte Ihre Werbung stehen – wenn man sie lesen k\xf6nnte…","Dieser Bildschirm ist so klein, selbst ein Pixel f\xfchlt sich eingeengt!","Dreht dein Hamster das Internet-Rad langsamer oder was ist da los? \uD83D\uDE05","Bitte wenden Sie Ihr Ger\xe4t oder besorgen Sie sich eine Lupe! \uD83D\uDD0D","Ich wusste nicht, dass es noch Nokia 3310 Browser gibt! \uD83D\uDCF1","Mikro-Browsing: Jetzt mit 99% weniger Platz f\xfcr Inhalte!","Ich hoffe, du hast Adleraugen, denn das ist ganz sch\xf6n winzig hier!","Pixel f\xfcr Pixel, irgendwann hast du einen ganzen Bildschirm!"],en:["Congrats! You're using the smallest screen in the world!","Anyone need a magnifying glass? \uD83E\uDDD0","This isn't a smartwatch, make the window bigger! \uD83D\uDE06","Your ad could be here – if anyone could read it…","This screen is so small, even a pixel feels cramped!","Is your hamster slowing down the internet wheel? \uD83D\uDE05","Please rotate your device or get yourself a magnifying glass! \uD83D\uDD0D","I didn’t know Nokia 3310 browsers still exist! \uD83D\uDCF1","Micro-browsing: Now with 99% less space for content!","I hope you have eagle eyes, because this is tiny!","Pixel by pixel, one day you'll have a full screen!"]};function updateMessage(){let e=getCookie("lang")||"en",n=messages[e]||messages.en;document.getElementById("tinyScreenText").innerText=n[Math.floor(Math.random()*n.length)]}const screenSizeElement=document.getElementById("screenSize"),observer=new MutationObserver(()=>{"none"!==window.getComputedStyle(screenSizeElement).display&&updateMessage()});observer.observe(screenSizeElement,{attributes:!0,attributeFilter:["style","class"]}),window.addEventListener("resize",()=>{window.innerHeight<=500&&updateMessage()}),"none"!==window.getComputedStyle(screenSizeElement).display&&updateMessage();</script>
+        <!-- Loading Screen -->
+        <div id="loadingScreen" style="display: none;"><div class="spinner"></div></div>
+        <!-- Cookie Banner -->
+        <div id="cookie-banner" class="cookie-banner hidden"><p data-lang="cookieInfo" class="anonymous-pro-regular"></p><button id="cookie-accept" class="chakra-petch-light">OK</button></div>
+        <!-- Header -->
+        <header id="header">
+            <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
+            <nav class="headerNavContainer" id="headerNavContainer">
+                <ul class="mainMenu">
+                    <li data-lang="navHome" class="chakra-petch-light" onclick="loadPage('home')"></li>
+                    <li data-lang="navProfile" class="chakra-petch-light" onclick="loadPage('profile')"></li>
+                    <li data-lang="navProjects" class="chakra-petch-light" onclick="loadPage('projects')"></li>
+                    <li data-lang="navSkills" class="chakra-petch-light" onclick="loadPage('skills')"></li>
+                    <li data-lang="navContact" class="chakra-petch-light" onclick="loadPage('contact')"></li>
+                </ul>
+            </nav>
+            <button class="modeSwitcher" onclick="toggleTheme()"><i class="fa-solid fa-sun"></i><div class="modeSelect" style="pointer-events: none;"></div><i class="fa-solid fa-moon"></i></button>
+            <button class="langSwitcher" onclick="toggleLanguage()"><img class="langIcon"></button>
+        </header>
+        <!-- Navigation -->
+        <nav id="navigation">
+            <div class="navButton" onclick="toggleDeskMenu()"><span></span><span></span><span></span></div>
+            <ul class="mainMenu">
+                <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
+                <li data-lang="navHome" class="chakra-petch-light" onclick="loadPage('home')"></li>
+                <li data-lang="navProfile" class="chakra-petch-light" onclick="loadPage('profile')"></li>
+                <li data-lang="navProjects" class="chakra-petch-light" onclick="loadPage('projects')"></li>
+                <li data-lang="navSkills" class="chakra-petch-light" onclick="loadPage('skills')"></li>
+                <li data-lang="navContact" class="chakra-petch-light" onclick="loadPage('contact')"></li>
+                <div class="modeSwitcher" onclick="toggleTheme()"><i class="fa-solid fa-sun"></i><div class="modeSelect" style="pointer-events: none;"></div><i class="fa-solid fa-moon"></i></div>
+                <button class="langSwitcher" onclick="toggleLanguage()"><img class="langIcon"></button>
+                <p class="copyright anonymous-pro-regular">©2024-<span class="year"></span> by Andreas Reimann</p>
+            </ul>
+        </nav>
+        <!-- Content --> 
+        <main id="content"></main>
+        <!-- Sitefooter -->
+        <footer id="footer">
+            <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas <span>Reimann</span></h1></div>
+            <div class="devider"></div>
+            <ul class="legalLinks">
+                <li data-lang="legalImpress" class="anonymous-pro-regular" onclick="loadPage('impress')"></li>
+                <li data-lang="legalData" class="anonymous-pro-regular" onclick="loadPage('privacy')"></li>
+                <li data-lang="legalCookies" class="anonymous-pro-regular" onclick="loadPage('cookies')"></li>
+                <li data-lang="legalSources" class="anonymous-pro-regular" onclick="loadPage('sources')"></li>
+            </ul>
+            <div class="devider"></div>
+            <div class="socials">
+                <a href="mailto:business@areimann.de"><i class="fa-solid fa-envelope"></i></a>
+                <a href="https://wa.me/4915206482495"><i class="fa-brands fa-whatsapp"></i></a>
+                <a href="https://t.me/lupinexmedia"><i class="fa-brands fa-telegram"></i></a>
+                <a href="https://discord.gg/vjg7kKyH2m"><i class="fa-brands fa-discord"></i></a>
+                <a href="https://twitch.tv/apixoffiziell"><i class="fa-brands fa-twitch"></i></a>
+                <a href="https://youtube.com/@apixoffiziell"><i class="fa-brands fa-youtube"></i></a>
+                <a href="https://tiktok.com/@apixoffiziell"><i class="fa-brands fa-tiktok"></i></a>
+            </div>
+            <div class="devider"></div>
+            <p class="copyright anonymous-pro-regular">©2024-<span class="year"></span> by Andreas Reimann</p>
+        </footer>
+        <!-- Mobile Footer -->
+        <section id="mobileFooter">
+            <div onclick="openMobilMenu('nav')"><i class="fa-solid fa-bars"></i><span data-lang="mobileMenu" class="chakra-petch-light"></span></div>
+            <div onclick="openMobilMenu('contact')"><i class="fa-solid fa-user"></i><span data-lang="mobileContact" class="chakra-petch-light"></span></div>
+            <i class="fa-solid fa-house center" onclick="openMobilMenu('home')"></i>
+            <div onclick="openMobilMenu('projects')"><i class="fa-solid fa-folder"></i><span data-lang="mobileProjects" class="chakra-petch-light"></span></div>
+            <div onclick="openMobilMenu('settings')"><i class="fa-solid fa-cog"></i><span data-lang="mobileSettings" class="chakra-petch-light"></span></div>
+        </section>
+        <aside id="mobileSettings">
+            <div class="modeSwitcher" onclick="toggleTheme()"><i class="fa-solid fa-sun"></i><div class="modeSelect" style="pointer-events: none;"></div><i class="fa-solid fa-moon"></i></div>
+            <button class="langSwitcher" onclick="toggleLanguage()"><img class="langIcon"></button>
+        </aside>
+        <!-- Script Loader -->
+        <script src="/scripts/mainLogic.js"></script><script src="/scripts/fetchData.js?v=1"></script>
+        <script data-info="Get Current Year">const years=document.querySelectorAll(".year"),d=new Date;let yearNow=d.getFullYear();years.forEach(e=>{e.innerHTML=yearNow});</script>
+        <script>let translations={};function toggleLanguage(){let e="en"===(getCookie("lang")||"en")?"de":"en";document.documentElement.lang=e,setCookie("lang",e,365),updateLanguageElements(e),updateURLWithCookies(),updateMottoMessage()}function updateLanguageElements(e){"en"!==e&&"de"!==e&&(e="en"),document.querySelectorAll("[data-lang]").forEach(n=>{let a=n.getAttribute("data-lang");translations[a]&&translations[a][e]&&(n.innerHTML=translations[a][e])}),document.querySelectorAll(".langIcon").forEach(n=>{"en"===e?n.src="images/lang/en.webp":"de"===e&&(n.src="images/lang/de.webp")}),setCookie("lang",e),updateURLWithCookies()}function initLanguage(){let e=getCookie("lang")||"en";"en"!==e&&"de"!==e&&(e="en"),document.documentElement.lang=e,updateLanguageElements(e)}fetch("db/dictionary.json").then(e=>e.json()).then(e=>{translations=e,initLanguage()}).catch(e=>console.error("Fehler beim Laden:",e));</script>
+    </body>
+</html>

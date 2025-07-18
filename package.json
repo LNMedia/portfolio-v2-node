@@ -1,0 +1,20 @@
+{
+  "name": "areimann.de",
+  "version": "1.0.0",
+  "description": "Vorstellungswebsite A. Reimann",
+  "keywords": [
+    "Website",
+    "NodeSite"
+  ],
+  "license": "ISC",
+  "author": "Andreas Reimann, LupiNex Media",
+  "type": "commonjs",
+  "main": "main.js",
+  "dependencies": {
+    "areimann.de": "file:",
+    "express": "^4.21.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "pdf2pic": "^3.1.4"
+  }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "projectPodcastHeader",
+        "description": "upcoming",
+        "media": "https://open.spotify.com/show/3JFKr20mGDGGpYxmdJkHAi",
+        "type": "podcast"
+    },
+    {
+        "titleOne": "projectPodcastLink",
+        "media": "https://pixelundpils.de",
+        "type": "link"
+    },
+    {
+        "title": "projectMusicHeader",
+        "media": "https://open.spotify.com/embed/playlist/5C2IK5kGKxpYcDqTeDfNqy?utm_source=generator",
+        "type": "external"
+    },
+    {
+        "media": "https://open.spotify.com/embed/playlist/44GpwtFUB8KwG9xVNqEpFB?utm_source=generator",
+        "type": "external"
+    },
+    {
+        "media": "https://open.spotify.com/embed/playlist/4RzjJxoD3yGd7d0V8ektKS?utm_source=generator",
+        "type": "external"
+    }
+]

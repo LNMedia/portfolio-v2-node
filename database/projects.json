@@ -1,0 +1,94 @@
+{
+    "projects": [
+      {
+        "startdate": "2025-03-31",
+        "enddate": "2025-04-13",
+        "planneddate": "2025-04-14",
+        "lastupdate": "2025-04-07",
+        "technologies": ["JavaScript", "Node.js", "Express", "CSS3", "HTML5"],
+        "tags": ["Website", "Frontend", "Backend", "JavaScript", "Node.js", "Express", "CSS3", "HTML5", "Programming"],
+        "logo": "images/projects/1_areimann.de/logo.webp",
+        "link": "https://areimann.de",
+        "gallery": [
+        ],
+        "title": "A. Reimann Portfolio (Website)",
+        "description": "projectOneDescription",
+        "status": "projectDone"
+      },
+      {
+        "startdate": "2025-03-27",
+        "enddate": "",
+        "planneddate": "",
+        "lastupdate": "2025-04-05",
+        "technologies": ["JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets"],
+        "tags": ["Software", "Frontend", "Backend", "JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets", "Programming"],
+        "logo": "images/projects/2_streamwarden/logo.webp",
+        "link": "",
+        "gallery": [
+        ],
+        "title": "Stream Warden (WebApp, Software)",
+        "description": "projectTwoDescription",
+        "status": "projectWIP"
+      },
+      {
+        "startdate": "2025-03-31",
+        "enddate": "",
+        "planneddate": "",
+        "lastupdate": "2025-03-31",
+        "technologies": ["JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets"],
+        "tags": ["Software", "Frontend", "Backend", "JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets", "Programming"],
+        "logo": "images/projects/3_lupicore_server/logo.webp",
+        "link": "",
+        "gallery": [
+        ],
+        "title": "LupiCore (Server, WebApp, Software)",
+        "description": "projectThreeDescription",
+        "status": "projectOpen"
+      },
+      {
+        "startdate": "2025-03-28",
+        "enddate": "",
+        "planneddate": "",
+        "lastupdate": "2025-03-29",
+        "technologies": ["JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets"],
+        "tags": ["Software", "Frontend", "Backend", "JavaScript", "Node.js", "Express", "Electron", "CSS3", "HTML5", "Websockets", "Programming"],
+        "logo": "images/projects/4_lupicore_client/logo.webp",
+        "link": "",
+        "gallery": [
+        ],
+        "title": "LupiCore (Client, WebApp, Software)",
+        "description": "projectFourDescription",
+        "status": "projectOpen"
+      },
+      {
+        "startdate": "2025-01-14",
+        "enddate": "",
+        "planneddate": "",
+        "lastupdate": "2025-02-25",
+        "technologies": ["JavaScript", "Node.js", "Express", "CSS3", "HTML5"],
+        "tags": ["Gaming", "Website", "Frontend", "Backend", "JavaScript", "Node.js", "Express", "CSS3", "HTML5", "Programming"],
+        "logo": "images/projects/5_glow_puzzle_quest/logo.webp",
+        "link": "",
+        "gallery": [
+        ],
+        "title": "Glow Puzzle Quest (Game, Web)",
+        "description": "projectFiveDescription",
+        "status": "projectFrozen"
+      },
+      {
+        "startdate": "2024-09-02",
+        "enddate": "2024-12-08",
+        "planneddate": "2024-12-08",
+        "lastupdate": "2024-12-07",
+        "technologies": ["JavaScript", "CSS3", "PHP", "HTML5"],
+        "tags": ["Birthday", "Website", "Frontend", "JavaScript", "CSS3", "PHP", "HTML5", "Programming"],
+        "logo": "images/projects/6_bday_fabian/logo.webp",
+        "link": "",
+        "gallery": [
+        ],
+        "title": "Fabian Special Website (Website)",
+        "description": "projectSixDescription",
+        "status": "projectDone"
+      }
+    ]
+}
