@@ -6,7 +6,7 @@
         <meta name="description" content="Welcome to my personal portfolio. areimann.de">
         <meta name="keywords" content="Andreas Reimann, Portfolio, Webentwicklung, Webdevelopment, Musik, Content Creation, Streaming">
         <link rel="canonical" href="https://areimann.de/" />
-        <link rel="icon" href="/images/logo.webp">
+        <link rel="icon" href="images/logo.webp">
         <meta property=og:type content=website>
         <meta property=og:title content="Andreas Reimann">
         <meta property=og:url content=https://areimann.de/ >
@@ -18,7 +18,7 @@
         <meta name="twitter:card" content="summary_medium_image" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="/styles/main.css?v=1"><link rel="stylesheet" href="/styles/pages.css?v=1">
+        <link rel="stylesheet" href="styles/main.css?v=1"><link rel="stylesheet" href="styles/pages.css?v=1">
         <script>function setTemporaryCookie(e,t){document.cookie=`${e}=${t}; path=/`}function setCookie(e,t,o){let i="";if(o){let n=new Date;n.setTime(n.getTime()+864e5*o),i="; expires="+n.toUTCString()}document.cookie=e+"="+(t||"")+i+"; path=/"}function getCookie(e){for(var t=document.cookie.split(";"),o=0;o<t.length;++o)if(t[o].trim().match("^"+e+"="))return t[o].replace(`${e}=`,"").trim();return null}function deleteCookie(e){setCookie(e,"",-1)}function updateURLWithCookies(){let e=getCookie("lang"),t=getCookie("theme"),o=getCookie("page")||"home",i=window.location.href.split("?")[0],n=`${i}?page=${o}&theme=${t}&lang=${e}`;window.history.replaceState({},"",n),applySettings(e,t),setTimeout(()=>{document.getElementById("loadingScreen").style.display="none",initLanguage()},3e3)}function setCookiesFromURL(){let e=new URLSearchParams(window.location.search),t=e.get("lang")||getCookie("lang"),o=e.get("theme")||getCookie("theme"),i=e.get("page")||"home";setCookie("lang",t,365),setCookie("theme",o,365),setTemporaryCookie("page",i),applySettings(t,o),loadPage(i)}function applySettings(e,t){document.documentElement.lang=e,"dark"===t?setTheme("dark"):setTheme("light")}</script>
     </head>
     <body onclick="handleBodyClick(event)">
@@ -31,7 +31,7 @@
         <div id="cookie-banner" class="cookie-banner hidden"><p data-lang="cookieInfo" class="anonymous-pro-regular"></p><button id="cookie-accept" class="chakra-petch-light">OK</button></div>
         <!-- Header -->
         <header id="header">
-            <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
+            <div class="logoContainer"><img src="images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
             <nav class="headerNavContainer" id="headerNavContainer">
                 <ul class="mainMenu">
                     <li data-lang="navHome" class="chakra-petch-light" onclick="loadPage('home')"></li>
@@ -48,7 +48,7 @@
         <nav id="navigation">
             <div class="navButton" onclick="toggleDeskMenu()"><span></span><span></span><span></span></div>
             <ul class="mainMenu">
-                <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
+                <div class="logoContainer"><img src="images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas<span>Reimann</span></h1></div>
                 <li data-lang="navHome" class="chakra-petch-light" onclick="loadPage('home')"></li>
                 <li data-lang="navProfile" class="chakra-petch-light" onclick="loadPage('profile')"></li>
                 <li data-lang="navProjects" class="chakra-petch-light" onclick="loadPage('projects')"></li>
@@ -63,7 +63,7 @@
         <main id="content"></main>
         <!-- Sitefooter -->
         <footer id="footer">
-            <div class="logoContainer"><img src="/images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas <span>Reimann</span></h1></div>
+            <div class="logoContainer"><img src="images/logo.webp" alt=""><h1 class="tangerine-bold">Andreas <span>Reimann</span></h1></div>
             <div class="devider"></div>
             <ul class="legalLinks">
                 <li data-lang="legalImpress" class="anonymous-pro-regular" onclick="loadPage('impress')"></li>
@@ -97,7 +97,7 @@
             <button class="langSwitcher" onclick="toggleLanguage()"><img class="langIcon"></button>
         </aside>
         <!-- Script Loader -->
-        <script src="/scripts/mainLogic.js"></script><script src="/scripts/fetchData.js?v=1"></script>
+        <script src="scripts/mainLogic.js"></script><script src="scripts/fetchData.js?v=1"></script>
         <script data-info="Get Current Year">const years=document.querySelectorAll(".year"),d=new Date;let yearNow=d.getFullYear();years.forEach(e=>{e.innerHTML=yearNow});</script>
         <script>let translations={};function toggleLanguage(){let e="en"===(getCookie("lang")||"en")?"de":"en";document.documentElement.lang=e,setCookie("lang",e,365),updateLanguageElements(e),updateURLWithCookies(),updateMottoMessage()}function updateLanguageElements(e){"en"!==e&&"de"!==e&&(e="en"),document.querySelectorAll("[data-lang]").forEach(n=>{let a=n.getAttribute("data-lang");translations[a]&&translations[a][e]&&(n.innerHTML=translations[a][e])}),document.querySelectorAll(".langIcon").forEach(n=>{"en"===e?n.src="images/lang/en.webp":"de"===e&&(n.src="images/lang/de.webp")}),setCookie("lang",e),updateURLWithCookies()}function initLanguage(){let e=getCookie("lang")||"en";"en"!==e&&"de"!==e&&(e="en"),document.documentElement.lang=e,updateLanguageElements(e)}fetch("db/dictionary.json").then(e=>e.json()).then(e=>{translations=e,initLanguage()}).catch(e=>console.error("Fehler beim Laden:",e));</script>
     </body>

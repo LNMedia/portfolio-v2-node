@@ -2,12 +2,12 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 const app = express();
-const port = 3005;
+const port = 4000;
 
 // Ordner-Struktur
 const logsDir = path.join(__dirname, 'logs');
-const certificatesDir = path.join(__dirname, 'resources', 'docs', 'certificates');
-const galleryDir = path.join(__dirname, 'resources', 'images', 'gallery');
+const certificatesDir = path.join(__dirname, 'resources/docs/certificates');
+const galleryDir = path.join(__dirname, 'resources/images/gallery');
 
 // Statische Dateien bereitstellen
 app.use('/db', express.static(path.join(__dirname, 'database')));
@@ -15,9 +15,7 @@ app.use('/styles', express.static(path.join(__dirname, 'resources/stylesheets'))
 app.use('/scripts', express.static(path.join(__dirname, 'resources/scripts')));
 app.use('/content', express.static(path.join(__dirname, 'resources/content')));
 app.use('/docs', express.static(path.join(__dirname, 'resources/docs')));
-app.use('/audio', express.static(path.join(__dirname, 'resources/audio')));
 app.use('/images', express.static(path.join(__dirname, 'resources/images')));
-app.use('/videos', express.static(path.join(__dirname, 'resources/videos')));
 
 // Helper-Funktion: Deutscher Zeitstempel
 function getGermanTimestamp(){return new Date().toLocaleString("de-DE",{timeZone:"Europe/Berlin",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",second:"2-digit"}).replace(",","")}

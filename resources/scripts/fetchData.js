@@ -40,7 +40,7 @@ async function getProjects() {
     }catch (error){console.error('Fehler beim Laden der Projekte:', error);}
 }
 // Functions on profile page
-async function loadCertificates(){try{let e=document.getElementById("certificatesGallery"),t=await fetch("/get-certificates"),i=await t.json(),c="";i.forEach(e=>{c+=`
+async function loadCertificates(){try{let e=document.getElementById("certificatesGallery"),t=await fetch("get-certificates"),i=await t.json(),c="";i.forEach(e=>{c+=`
     <div class="cert">
         <img src="docs/certificates/${e}" alt="Zertifikat ${e}" title="${e}" class="cert-thumbnail" onclick="openModal('docs/certificates/${e}')">
     </div>
@@ -53,7 +53,7 @@ async function getPartnerships(){try{let r=await fetch("db/partnerships.json"),a
         <p class="partner-description anonymous-pro-regular" data-lang="${r.description}"></p>
     </div>
 `}),n.innerHTML=t}catch(e){console.error("Error loading partnerships:",e)}}
-async function loadGallery(){try{let a=document.getElementById("galleryContainer"),e=await fetch("/get-images"),l=await e.json();console.log(l);let r="";l.forEach(a=>{r+=`<img src="/images/gallery/${a}" alt="Gallery image ${a}" class="gallery-image" onclick="openModal('/images/gallery/${a}')">`}),closeModal(),a.innerHTML=r}catch(g){console.error("Error loading images:",g)}}
+async function loadGallery(){try{let a=document.getElementById("galleryContainer"),e=await fetch("get-images"),l=await e.json();console.log(l);let r="";l.forEach(a=>{r+=`<img src="images/gallery/${a}" alt="Gallery image ${a}" class="gallery-image" onclick="openModal('images/gallery/${a}')">`}),closeModal(),a.innerHTML=r}catch(g){console.error("Error loading images:",g)}}
 function openModal(e){let t=document.getElementById("imageModal"),l=document.getElementById("modalImage");t.style.display="flex",l.src=e}function closeModal(){let e=document.getElementById("imageModal");e?e.style.display="none":console.error("Modal not found")}window.onclick=function(e){let t=document.getElementById("imageModal");e.target===t&&closeModal()},document.addEventListener("contextmenu",e=>{"IMG"===e.target.tagName&&e.preventDefault()});
 // Functions on homepage
 async function getNewsTicker() {

@@ -13,7 +13,7 @@ function loadPage(page) {
 
     switch (page) {
         case 'home':
-            loadHTML('/content/home.html', mainContent, () => {
+            loadHTML('content/home.html', mainContent, () => {
                 checkMenus();
                 getNewsTicker();
                 getHomeSkills();
@@ -23,7 +23,7 @@ function loadPage(page) {
             });
             break;
         case 'profile':
-            loadHTML('/content/profile.html', mainContent, () => {
+            loadHTML('content/profile.html', mainContent, () => {
                 checkMenus();
                 loadCertificates();
                 getPartnerships();
@@ -32,14 +32,14 @@ function loadPage(page) {
             });
             break;
         case 'projects':
-            loadHTML('/content/projects.html', mainContent, () => {
+            loadHTML('content/projects.html', mainContent, () => {
                 checkMenus();
                 getProjects();
                 scrollToTop();
             });
             break;
         case 'skills':
-            loadHTML('/content/skills.html', mainContent, () => {
+            loadHTML('content/skills.html', mainContent, () => {
                 checkMenus();
                 getSkillsTree();
                 getProcess();
@@ -47,38 +47,38 @@ function loadPage(page) {
             });
             break;
         case 'contact':
-            loadHTML('/content/links.html', mainContent, () => {
+            loadHTML('content/links.html', mainContent, () => {
                 checkMenus();
                 getLinks();
                 scrollToTop();
             });
             break;
         case 'impress':
-            loadHTML('/content/impress.html', mainContent, () => {
+            loadHTML('content/impress.html', mainContent, () => {
                 checkMenus();
                 scrollToTop();
             });
             break;
         case 'privacy':
-            loadHTML('/content/dataprotection.html', mainContent, () => {
+            loadHTML('content/dataprotection.html', mainContent, () => {
                 checkMenus();
                 scrollToTop();
             });
             break;
         case 'cookies':
-            loadHTML('/content/cookies.html', mainContent, () => {
+            loadHTML('content/cookies.html', mainContent, () => {
                 checkMenus();
                 scrollToTop();
             });
             break;
         case 'sources':
-            loadHTML('/content/sources.html', mainContent, () => {
+            loadHTML('content/sources.html', mainContent, () => {
                 checkMenus();
                 scrollToTop();
             });
             break;
         default:
-            loadHTML('/content/404.html', mainContent, () => {
+            loadHTML('content/404.html', mainContent, () => {
                 checkMenus();
                 scrollToTop();
             });
